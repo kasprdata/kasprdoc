@@ -15,7 +15,7 @@ knitr::include_graphics("images/kdh_hero2.png")
 
  
 
-Welcome to the KASPR Datahaus web-store.
+Welcome to the KASPR Datahaus Data Documentation.
 
 In this document you can learn more about our data products and our webstore.
  
