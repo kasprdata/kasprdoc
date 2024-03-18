@@ -4,8 +4,16 @@ sampling-design
 global-ict-intel-data---variables
 timing-definitions
 data-fields
-suggested-use
+overview
+sampling-design-1
+global-subnational-internet-quality---descriptor
+timing-definitions-1
 disclaimer
+assumptions
+customization
+hourly-ict-connectivity-quality-anomaly-data-at-the-regional-level
+suggested-use
+disclaimer-1
 background-intellectual-property
 license
 license-1
