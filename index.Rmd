@@ -1,0 +1,21 @@
+--- 
+title: "KASPR Datahaus Documentation"
+#author: "The KASPR Team"
+#date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+favicon: images/favicon_16.ico
+cover-image: images/kdh_hero2.png
+---
+
+# KASPR web-store
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/kdh_hero2.png")
+```
+
+ 
+
+Welcome to the KASPR Datahaus web-store.
+
+In this document you can learn more about our data products and our webstore.
+ 
