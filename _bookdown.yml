@@ -6,11 +6,12 @@ view: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/master/%s
 
 md_files:
 - index.Rmd
-- 02-descriptor.Rmd
-- 03-use_cases.Rmd
+- 02-subnational-quality.Rmd
+- 03-global-anomaly.Rmd
 - 04-disclaimer.Rmd
 - 05-license.Rmd
 
-language:
-  ui:
-    chapter_name: ""
+
+#language:
+#  ui:
+#    chapter_name: ""

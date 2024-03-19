@@ -7,8 +7,7 @@ favicon: images/favicon_16.ico
 cover-image: images/kdh_hero2.png
 ---
 
-# KASPR web-store
-
+ 
  ```{r echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("images/kdh_hero2.png")
 ```
