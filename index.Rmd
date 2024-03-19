@@ -7,6 +7,7 @@ favicon: images/favicon_16.ico
 cover-image: images/kdh_hero2.png
 ---
 
+# Welcome
  
  ```{r echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("images/kdh_hero2.png")
@@ -16,5 +17,5 @@ knitr::include_graphics("images/kdh_hero2.png")
 
 Welcome to the KASPR Datahaus Data Documentation.
 
-In this document you can learn more about our data products and our webstore.
+In this document you can learn more about our data products and find coodbooks with variable definitions.
  
