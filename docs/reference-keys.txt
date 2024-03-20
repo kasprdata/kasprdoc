@@ -3,6 +3,7 @@ global-subnational-internet-quality-products
 sampling-design
 global-subnational-internet-quality---descriptor
 timing-definitions
+historical-data-backtesting
 disclaimer
 assumptions
 customization
@@ -16,6 +17,7 @@ index-values-anomaly-detection-flags
 anomaly-detection-module-inclusion-criteria
 suggested-use
 example
+historical-data-backtesting-1
 disclaimer-1
 assumptions-1
 customization-1

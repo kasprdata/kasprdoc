@@ -66,7 +66,11 @@ Below we provide a labelled example from the data set, here, the ADM1 region 'En
 knitr::include_graphics("images/example_england_labelled.png")
 ```
 
+## Historical Data & Backtesting
 
+5 year historical data is available for purchase and backtesting. Data collection has been operating consistently and without interruptions since February 2019.
+
+Please contact info@kasprdata.com for further information.
 
 ## Disclaimer
 

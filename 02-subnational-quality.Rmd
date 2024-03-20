@@ -32,6 +32,12 @@ For ease of use, we also provide three additional variables, timezone_offset, ti
 
 Note: if the larger region (e.g., national) has more than one timezone within it (e.g., at adm1 level), the most frequent timezone across the lower geographic zones is applied to the larger region.
 
+## Historical Data & Backtesting
+
+5 year historical data is available for purchase and backtesting. Data collection has been operating consistently and without interruptions since February 2019.
+
+Please contact info@kasprdata.com for further information.
+
 ## Disclaimer
 
 KDH Global ICT Intel Data is constructed from remote measurements based on the Internet Control Message Protocol (ICMP) echo request routine. As any remote measurement technology, KDH Global ICT Intel Data can only be an approximation of the local internet infrastructure and human experience of the internet on the ground. It is important to note that:
