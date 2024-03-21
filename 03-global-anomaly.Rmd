@@ -2,13 +2,13 @@
 
 This document describes the KDH Global ICT Intel & Anomaly Data developed by KASPR Datahaus PTY LTD. Our few-hourly (e.g., 1h, 3h, 6h) regional (national, adm1, or adm2 accordingly) level products provide an aggregated measure of the region's ICT Infrastructure via millions of individual internet protocol (IP) address observations. The product offers the time-varying availability and quality of a region's infrastructure aggregated across the geographic space of the region. As such, the sampling design intentionally emphasizes diversity in geographic units rather than conducting a representative sample of all IP addresses from the region detached from geo-location (see next section).
 
-## Sampling Design
+## Sampling Design {.unlisted .unnumbered}
 
 To provide a product of global scale and frequency, a random sampling methodology is necessary within some geographic boundaries due to a very high concentration of IP addresses allocated there, e.g., districts of major cities. In these often small suburban geographic boundaries, a randomized sample of 100,000 IPs is drawn to measure a diversity of unique physical locations within the boundary. Where the internet address concentration is lower, we conduct a census measurement design, i.e., measuring the activity and quality of every address in that geographic region.
 
 To emphasize, the priority of the few-hourly Global ICT Intel product is to provide a consistent, scientific sampling methodology across tens of thousands of small geographic boundaries worldwide, such that at the regional level aggregate, significant shocks and time-varying activity patterns across the entire geographic domain of the region are incorporated.
 
-## Global ICT Intel Data - Descriptor
+## Global ICT Intel Data - Descriptor {.unlisted .unnumbered}
 
 The two Global ICT Intel measures are defined as follows:
 
@@ -20,11 +20,11 @@ The two Global ICT Intel measures are defined as follows:
 
 The variable day_indicator indicates when our scanning and aggregation technology crosses over from one scanning phase to the next (approximately around the 8-10th of a new month). It takes the value of 1 for most days and the value of 2 if it is a cross-over day. The impact is normally negligible during the cross-over days. The main variable impacted would be number_unique_active_ips_in_sample. In our own back-testing, no model selected this feature as important, confirming that the cross-over is not informationally relevant.
 
-## Pre-adjusted IP activity counts
+## Pre-adjusted IP activity counts {.unlisted .unnumbered}
 
 For ease of use, we also provide the variables number_unique_active_ips_in_sample_adj and rtt_mean_norm_adj. These variables are equivalent to number_unique_active_ips_in_sample and rtt_mean_norm respectively, however, the impact of any sampling differences across the monthly scanning infrastructure boundary are already accounted for. For example, if a subsequent month has a higher baseline active count in a geographic parcel than a former month, the subsequent month's active IP readings are systematically shifted lower to smoothly match the end-point of the former month's readings. Note: these variable is constructed, not measured. (see Index variables below)
 
-## Timing Definitions
+## Timing Definitions {.unlisted .unnumbered}
 
 Values of Unix timestamp time_e and corresponding time string time_e_utc_str indicate the start of the period for which the measurements pertain. For example, a timestamp corresponding to 12:00:00.000 indicates measurements taken between 12:00:00.000 and 14:59:59.999.
 
@@ -32,7 +32,7 @@ For ease of use, we also provide three additional variables, timezone_offset, ti
 
 Note: if the larger region (e.g., national) has more than one timezone within it (e.g., at adm1 level), the most frequent timezone across the lower geographic zones is applied to the larger region.
 
-## Index Values & Anomaly Detection Flags
+## Index Values & Anomaly Detection Flags {.unlisted .unnumbered}
 
 For ease of use, we also provide a pre-prepared set of index and anomaly features. Indices for connectivity and latency are prepared in a similar manner, based on their respective underlying variables, number_unique_active_ips_in_sample_adj and rtt_mean_norm_adj.
 
@@ -44,21 +44,21 @@ Finally, each observation is checked for its anomaly state, being flagged if it 
 
 We note that anomaly boundaries and associated flags are provided for ease of application, though construction of alternative thresholds, anomaly detection methodologies, and models is encouraged for specific use-cases.
 
-## Anomaly Detection Module Inclusion Criteria
+## Anomaly Detection Module Inclusion Criteria {.unlisted .unnumbered}
 
 To support statistical inference behind the anomaly detector module, two inclusion criteria are applied. For regions which do not fulfill one or both of these policies, counts of unique IPs and latency information only is provided, with NaNs in place of anomaly columns.
 
 - **Min Observation Policy:** Regions must have at least one temporal period (e.g., 3h), within the dataset window, with at least 100 unique active IP observations.
 - **Min Non-Zero Days Policy:** Regions must have at least 14 days' (of the dataset window) of non-zero readings.
 
-## Suggested Use
+## Suggested Use {.unlisted .unnumbered}
 
 -  Due to differences in the setup of the physical backbone of each region's ICT infrastructure, comparing the raw levels of our measures between regions (between variation) is not advised.
 -  The value of the Global ICT & Anomaly Intel product comes from the hourly and daily, time-varying signal at the given regional-level (within variation). As such, it is ideally suited to be combined with other time-series (e.g., few-hourly, daily, weekly, monthly) data from the respective region.
 -   If a comparison of changes in ICT infrastructure between geographic regions is desired, a good approach would be to simply build the first differences of our measures at the regional level and compare, or, to use the pre-prepared index values as given.
 -  Given the high-frequency of the Global ICT & Anomaly Intel product, it is well suited to detect shocks to a region's ICT infrastructure. These shocks can include electricity outages, political events, violent conflict, natural disasters, or sovereign suppression activities.
 
-## Example
+## Example {.unlisted .unnumbered}
 
 Below we provide a labelled example from the data set, here, the ADM1 region 'England', from the country 'GBR' (Great Britain).
 
@@ -66,13 +66,13 @@ Below we provide a labelled example from the data set, here, the ADM1 region 'En
 knitr::include_graphics("images/example_england_labelled.png")
 ```
 
-## Historical Data & Backtesting
+## Historical Data & Backtesting {.unlisted .unnumbered}
 
 5 year historical data is available for purchase and backtesting. Data collection has been operating consistently and without interruptions since February 2019.
 
 Please contact info@kasprdata.com for further information.
 
-## Disclaimer
+## Disclaimer {.unlisted .unnumbered}
 
 KDH Global ICT Intel Data is constructed from remote measurements based on the Internet Control Message Protocol (ICMP) echo request routine. As any remote measurement technology, KDH Global ICT Intel Data can only be an approximation of the local internet infrastructure and human experience of the internet on the ground. It is important to note that:
 
@@ -80,7 +80,7 @@ KDH Global ICT Intel Data is constructed from remote measurements based on the I
 2. Any IP addresses that are not reachable by ICMP echo requests are not included in our measurements.
 3. The geolocation information for each of the individual IP addresses is based on data from Third Party providers and are updated on a monthly basis. The level of accuracy of the IP geolocation can vary across geographies and time and this can affect the accuracy of the KDH Global ICT Intel Data products. KASPR Datahaus PTY LTD makes no additional or express or implied warranties related to the accuracy of this location data across space and time.
 
-## Assumptions
+## Assumptions {.unlisted .unnumbered}
 
 Furthermore, KDH data acquisition and data service provision relies on an assumed wider operating environment beyond the control or authority of KDH. Failure or interruption in any aspect of this operating environment can render KDH unable to acquire or provide data to clients in a timely manner, or at all. Assumed features of the operating environment include, but are not limited to:
 
@@ -101,14 +101,14 @@ In preparing these products KASPR Datahaus Pty Ltd asserts the ownership of the 
 - Methods to detect statistical anomalies and irregularities in internet measurement data, with tunable thresholds.
 - Methods to remotely deliver internet measurement data and derivative datasets to client end-points.
 
-## Customization
+## Customization {.unlisted .unnumbered}
 
 KASPR Datahaus PTY LTD offers additional services to interested parties where our technology can intensively measure the IP space of a subset of over one hundred metropolitan areas around the globe to provide a representative view of these specific, high IP address concentration, large urban agglomerations.
 
 We welcome inquiries around any aspect of product design that may serve your needs. Please get in touch at info@kasprdata.com.
 
 
-## Variable Definitions
+## Variable Definitions {.unlisted .unnumbered}
 
 | Variable | Description |
 | --- | --- |

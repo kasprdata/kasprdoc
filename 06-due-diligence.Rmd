@@ -1,0 +1,190 @@
+# Data Due Diligence Questionnaire (DDQ) 
+
+## The Data Provider  {.unlisted .unnumbered}
+
+
+*1.	What is the full legal name of your company?  For purposes of this questionnaire, the following shall be deemed “Contributor”:*
+
+KASPR Datahaus Pty Ltd,Prahran 3181 Victoria, AUSTRALIA 		(for ease of reference below, “KDH”)
+ABN 67 624 542 909
+
+
+*2.	Provide names of senior management and members of board of directors and their titles / roles.  *
+
+- Chief Executive Officer (CEO): Dr. Paul Raschky
+- Chief Technology Officer (CTO): Dr. Simon Angus
+- Head of Product (CPO): Dr. Klaus Ackermann
+- Chief Financial Officer (CFO): Carmen Brandstatter
+
+ 
+
+*3.	Are any owners, members of board of directors, or senior management or any other person involved in this venture current or former Government Officials?  If yes, list and include current or former Government position(s).*
+
+No.
+
+*4.	Is Contributor ultimately owned 50% or more by a Government entity?  Is Contributor a joint venture with a Government entity or does it have Government-owned or Government-controlled partners?  If yes, explain.*
+
+No.
+
+*5.	Is Contributor ultimately owned or controlled by the any person or entity located, organized, or ordinarily resident in Crimea Region, Cuba, Iran, N. Korea, or Syria? If yes, explain.*
+
+No.
+
+*6.	Does Contributor have any subsidiaries, operations, assets, or other business activities in (or involving) Crimea Region, Cuba, Iran, N. Korea, or Syria? If yes, explain.*
+
+No.
+
+*7.	Is Contributor or any of its owners, members of board of directors, senior management, or employees the subject of economic sanctions administered by the United States, European Union, United Kingdom, or United Nations? If yes, explain.*
+
+No.
+
+*8.	Does Contributor have compliance policies, procedures, code of ethics, including any related to anti-corruption, gifts, advertising, meals and entertainment, and economic sanctions in place.*
+
+Yes
+
+*9.	Is Contributor or any of its affiliates, officers, key employees, owners, senior management or board members currently subject to any financial crime investigation (e.g., corruption, money laundering, sanctions violations, tax evasion, etc)? If yes, explain. *
+
+No.
+
+*10.	Has Contributor or any of its affiliates, officers, key employees, owners, senior management or board members been indicted, convicted, or subjected to any financial crime investigation (e.g., corruption, money laundering, sanctions violations, tax evasion, etc) in the last 10 years? If yes, explain.*
+
+No.
+
+*11.	Is Contributor regulated by a government regulator (financial, media, etc)?  If so, provide name of regulator and proof of regulatory status.*
+
+No.
+  
+*12.	Please describe the services that you provide, including identifying the lines of business and core operations.*
+
+KDH has developed a method to scan and collect Internet activity and quality data in real time at every location in the world. KDH uses this data to measure, monitor and forecast the condition of local internet infrastructure and provide related insights to her clients.
+
+
+
+## Data  {.unlisted .unnumbered}
+
+
+*1.	What data will be provided (the “Data”)?*
+
+Aggregate observations on the count of active internet connections, along with the average and standard variance of the return time of a query to active connections, aggregated at national (ADM 0), state (ADM 1) or county/district (ADM2) level.
+
+
+*2.	How is the Data acquired?*
+
+By KASPR Datahaus PTY LTD proprietary measurement technology, operating from the commercial cloud, sending basic internet messaging protocol (ICMP) queries to a large list of geo-located internet protocol (IP) addresses. Our technology runs sampling over these blocks to develop a representative observational basis for daily measurements. The ICMP query method is used billions of times a day as the industry standard to ensure the smooth passage of traffic on the internet. Online IP responses are collected to a secure cloud storage server and then aggregated by our technology to provide insights at the state and national level on internet activity and quality.
+
+*3.	From what countries is the Data acquired? *
+
+The Global product has the largest scope, and includes the following 136 three-character country ISOs:
+USA, AUS, AUT, BEL, CAN, CHE, CHL, CZE, DEU, DNK, ESP, EST, FIN, FRA, GBR, GRC, HUN, IRL, ISL, ISR, ITA, JPN, KOR, LTU, LUX, LVA, MEX, NLD, NOR, NZL, POL, PRT, SVK, SVN, SWE, TUR, AFG, AGO, ARE, ARG, AZE, BDI, BEN, BFA, BGD, BGR, BIH, BLR, BOL, BRA, CAF, CHN, CIV, CMR, COD, COG, COL, CRI, CUB, DOM, DZA, ECU, EGY, ERI, ETH, GEO, GHA, GIN, GTM, HND, HRV, HTI, IDN, IND, IRN, IRQ, JOR, KAZ, KEN, KGZ, KHM, LAO, LBR, LBY, LKA, MAR, MDA, MDG, MLI, MMR, MNG, MOZ, MRT, MWI, MYS, NER, NGA, NIC, NPL, OMN, PAK, PAN, PER, PHL, PNG, PRK, PRY, ROU, RUS, RWA, SAU, SDN, SEN, SLE, SLV, SOM, SRB, SSD, SYR, TCD, TGO, THA, TJK, TKM, TUN, TZA, UGA, UKR, URY, UZB, VEN, VNM, YEM, ZAF, ZMB, ZWE
+
+*4.	Will you de-identify or anonymize the Data before providing it?  *
+
+No/Not necessary: The data do not contain any personal information because it contains only aggregated observations at the country, state or level, respectively.
+
+
+*5.	Does the Data contain any Personally Identifiable Information (PII)?*
+
+No. The data does not contain any Personally Identifiable Information (PII)
+
+*6.	Does the Data contain any information about an individual’s race, ethnicity, politics, religion, trade union membership, gender, genetics, sex life, or sexual orientation, health information, government identifiers such as passport, social security or driver's license numbers, financial information such as account numbers and credit card information, biometric information, sensitive location or any other information about an individual that could be considered sensitive? *
+
+No
+
+*7.	Does the Data track or monitor the behavior of natural persons or their devices? *
+
+No
+
+*8.	How do you store data after acquisition? (Please describe storage infrastructure and applicable security.)*
+
+Data are stored on a Commercial Cloud storage server system (AWS S3, Sydney, AUSTRALIA). Data access/query is restricted to two encrypted key accounts, from a white-list of known IP locations only.
+
+## Legal and regulatory risks {.unlisted .unnumbered}
+
+*1.	Describe your written compliance policies applicable to the acquisition, storage, use, licensing or distribution of data. KASPR Datahaus has a data compliance policy in place that provides employees, suppliers and customers with direction on the collection, storage, analysis, delivery, and usage of data as well as the accountability for data.*
+
+Our company has a designated Data Protection Office (DPO) who oversees the implementation of this policy.
+
+*2.	Do you confirm that your data acquisition practices have not violated any rights of data sources?*
+
+ Yes
+ 
+
+*3.	Do you confirm that you have acquired the Data in accordance with applicable laws?*
+
+Yes
+
+
+*4.	Do you maintain all legal rights necessary to license and deliver the Data to others?*
+
+Yes
+
+
+*5.	Do you ensure that the data you deliver to others, is not material non-public information (MNPI)?  If so, please describe the process you have in place to ensure that the data you deliver is not MNPI.*
+
+Yes. Our data do not pertain to any company, listed or otherwise. Our data pertain to large geo-spatial areas such as nations, states, or counties/districts.
+ 
+
+*6.	Does your data acquisition practices for the Data rely on any web crawling/scraping or similar automated research?*
+
+No
+
+*7.	Do you ensure that your data collection processes avoid causing damage to or otherwise disrupting websites or other platforms from which data is acquired?*
+
+Yes
+ 
+
+*8.	What person or group is responsible within the company for legal compliance relating to the acquisition, storage, use, licensing or distribution of data?*
+
+The CEO (Paul Raschky), CTO (Simon Angus), and Head of Product (Klaus Ackermann)
+
+*9.	Do your data acquisition practices, including those used for the Data, conform with all relevant data privacy laws, including but not limited to applicable laws governing protection of personal information, health information, consumer financial information, etc.?*
+
+Yes  
+
+
+*10.	If the Data will contain any personal information, including but not limited to, sensitive information, or protected health information, will provision of the personal information to Bloomberg for the license purpose violate any applicable data privacy law, any right of any individual or entity, or any applicable terms of use or privacy policy? *
+
+ Not applicable, as the data does not contain any personal information.
+
+*11.	Is the Data subject to local data storage or cross border transfer requirements?  If so, please describe how you comply with these requirements.*
+
+ No
+
+*12.	Do you ensure that you have acquired the Data in a manner that does not violate the Data source’s rights nor the rights of the data subjects?*
+
+Yes
+
+
+*13.	Do you engage vendors to obtain data? *
+
+No
+
+*14.	Does Contributor carry insurance covering risks arising from its acquisition, storage, use licensing or distribution of data, including the Data?  *
+
+Yes. KASPR Datahaus PTY has Professional Indemnity, Public and Product Liability Insurance Coverage provided by Dual Insurance Australia.
+ 
+
+
+*15.	Do you maintain policies and procedures governing data privacy and cybersecurity?  If so, please describe.*
+
+Yes. KASPR Datahaus PTY LTD has a data protection and privacy policy in place that outlines  our  guidelines  and  provisions  for  collecting, processing, storing and accessing data and outlines the requirements for data leakage prevention.
+We also have a cybersecurity policy in place that outlines  our  guidelines  and  provisions  for  preserving  the security of our data and technology infrastructure. It covers, among others, user responsibilities, access controls, data governance and classification and the handling procedures in the case of security incidents. 
+
+We have a designated Information Security Officer (ISO) who oversees the implementation of both policies.
+
+*16.	Have you experienced any data or cybersecurity breaches in the past 24 months?  If so, please describe.*
+No 
+
+*17.	Please describe any security measures that you use to protect data you have acquired from being compromised.*
+
+See Answer to Section 2/Q8.
+
+
+*18.	Have you ever been contacted by regulatory or law enforcement authorities in regard to your data acquisition or storage practices? If so, please describe.*
+
+No
+
+*19.	Have you ever been subject to litigation or received a cease-and-desist letter regarding your data acquisition practices? If so, please describe.*
+
+No
+

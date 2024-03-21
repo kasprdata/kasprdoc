@@ -12,7 +12,7 @@ E. 	By clicking to agree or accepted where these options are presented to you wa
 
 
 
-##	License:
+##	License: {.unlisted .unnumbered}
 KASPR Datahaus grants Licensee, its Affiliates and Nominated Consultants a worldwide, non-exclusive, non-sublicensable, non-transferable revocable license to access, copy and use the Data as further described herein. This license includes the right for Licensee, its Affiliates, and Nominated Consultants to:
       
 +	import  any  Data  into  its  various  databases,  and  internally  redistribute  among  its departments  and  Affiliates  at  any  location  any  such  Data  or  databases  
@@ -39,14 +39,8 @@ Restrictions on use. Licensee agrees, except to the extent permitted by this Agr
 
 **Reservation of Rights.** Licensor reserves all rights not expressly granted to Licensee in this Agreement. Except for the limited rights and licenses expressly granted under this Agreement, nothing in this Agreement grants, by implication, waiver, estoppel, or otherwise, to Licensee or any third party any intellectual property rights or other right, title, or interest in or to the KDH Data. Without limiting the foregoing, Licensee shall not acquire any proprietary rights of the KDH Data.
 
-##	Fees and Delivery.
-Licensee shall pay the Fees, as calculated in the Store. Licensee is responsible for the timely payment of the Fees. If Licensee fails to make any payment when due, in addition to all other remedies that may be available: Licensor may prohibit access to the Data until all past due amounts have been paid, without incurring any obligation or liability to Licensee or any other person by reason of such prohibition of access to the Data.
 
-*Taxes.* Licensee is responsible for all sales, use and excise taxes, and any other similar taxes, duties and charges of any kind imposed by any federal, state or local governmental or regulatory authority on the Fees, other than any taxes imposed on Licensor’s income.
-
-*Delivery.* The KDH Data will be delivered to Licensee by Licensor through the Store. Licensor has no liability due to a delay in delivery or any temporary interruption in service of the Store.
-
-##	Warranties
+##	Warranties {.unlisted .unnumbered}
 Licensee warrants and undertakes to Licensor that:
 +	it has all rights necessary to grant all the rights that it purports to grant and perform all of its obligations under this Agreement, without the further consent or license of any third party;
 
@@ -56,22 +50,22 @@ Licensee warrants and undertakes to Licensor that:
 
 EXCEPT AS OTHERWISE SET FORTH IN THIS LICENSE (INCLUCING ANY SCHEDULE OR STATEMENT OF WORK), THE KDH DATA IS PROVIDED “AS IS” AND “AS AVAILABLE” BASED ON THE ASSUMPTIONS IDENTIFED IN THE PRODUCT DESCRIPTOR. KDH ACCEPTS NO RESPONSIBILITY FOR RELIANCE ON THE KDH DATA IN THE EVENT THE ASSUMPTIONS IDENTIFIED IN THE PRODUCT DESCRIPTOR ARE INCORRECT, INACCURATE OR DO NOT REFLECT REAL WORLD EVENTS OR OCCURANCES. KDH MAKES NO ADDITIONAL OR EXPRESS OR IMPLIED WARRANTIES RELATING TO THE KDH DATA INCLUDING BY WAY OF EXAMPLE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  
 
-##	     Liability
+##	     Liability {.unlisted .unnumbered}
 In no event shall Licensor be liable for any indirect, incidental, consequential or punitive damages of any kind or nature whatsoever, including without limitation, lost revenues, savings or business and loss of profits, whether in an action based on contract, warranty, strict liability, tort (including, without limitation, negligence) or otherwise, even if such Party has been informed in advance of the possibility of such damages or such damages could have been reasonably foreseen by such Party. In no event will licensor’s aggregate liability arising out of or related to this agreement, under any legal theory including breach of contract, tort (including negligence), strict liability and otherwise, exceed the total fees paid by the licensee in the 12 months period preceding the event giving rise to the claim.   
 
-##	Indemnity
+##	Indemnity {.unlisted .unnumbered}
 Licensee shall fully indemnify, defend and hold harmless Licensor its affiliates, and their officers, directors, employees, agents, successors and assigns (KDH Indemnitees) from and against any and all third party claims, damages, liabilities, losses, and expenses (including any and all reasonable attorney fees, expenses and costs) (each a Claim) incurred by or asserted against any KDH Indemnitee of whatever kind or nature due to (a) a breach or alleged breach by licensee of any representation or warranty in the Agreement; and (b) a Claim related to the negligence or wilful misconduct of licensee, its employees, agents, or Personnel.
 
-##	Licensee Covenants
+##	Licensee Covenants {.unlisted .unnumbered}
 
 Licensee represents and warrants that it has the full right, power and authority to enter into this Agreement and to perform its obligations hereunder; and that Licensee’s use of the Data and performance of this Agreement shall not violate, conflict with, or result in a material default under any other agreement, including confidentiality agreements between Licensee and third parties. Licensee covenants to maintain, hold and process the Data in compliance with all applicable laws. Licensee covenants it shall not attempt to reverse engineer, decompile, or otherwise re-identify the Data by using any method, including, but not limited to, merging external data with Data provided by Licensor. Licensee agrees to not (i) circumvent security features used to prevent or restrict access to or use the Shop or API, (ii) create user accounts by automated means or (iii) impersonate any person or entity.
 
-##	Intellectual Property
+##	Intellectual Property {.unlisted .unnumbered}
 
 Licensor is the owner of the Intellectual Property Rights in respect of the KDH Data. Nothing in this Agreement affects the ownership of any Intellectual Property Rights in the KDH Data with all such Intellectual Property Rights remaining with Licensor.     
 Except for the right to access and use the KDH Data purchased at the Store, no license is granted to Licensee to the Licensor’s Background IP, or with respect to any other Intellectual Property Right owned or controlled by Licensor.
 
-##	Termination
+##	Termination {.unlisted .unnumbered}
 
 This Agreement may be terminated for cause forthwith on written notice:
 (a)     by Licensor if Licensee has not remedied a material breach of the Agreement within 30 days of a notice requiring it to do so; or
@@ -79,7 +73,7 @@ This Agreement may be terminated for cause forthwith on written notice:
 
  This Agreement may be terminated without cause by Licensor on giving not less than one (1) month’s notice for termination 
 
-##	Consequences of Termination or Expiry
+##	Consequences of Termination or Expiry {.unlisted .unnumbered}
 Termination or expiry of this Agreement will not affect any rights of the Parties accrued to them up to the date of termination or expiry.
 
 Return and Destruction of KDH Data. The Parties acknowledge that it is essential for Licensee to return or purge any and all KDH Data upon termination of this Agreement. In order to ensure that Licensee meets the requirements, Licensee shall:
@@ -91,7 +85,7 @@ Return and Destruction of KDH Data. The Parties acknowledge that it is essential
 +	Collaborate with Licensor in order to ensure that all KDH Data is returned or destroyed in accordance with KDH’s instruction and data purge mechanism, including but not limited to providing written certification from a director of Licensee that Licensee has complied with this clause. This section shall survive any termination or expiration of this Agreement.
 
 
-##	GENERAL
+##	GENERAL {.unlisted .unnumbered}
 
 **Force Majeure.** Licensor will not be in breach of its contractual obligations in case of delay in performing, or failure to perform, its obligations under the Agreement  to the extent such delay or failure is caused by the occurrence of any contingency beyond the reasonable control, and without any fault, of such Party, which contingencies include but are not limited to acts of God, pandemics, epidemics, war, riot, power failures, internet disruption, fires, and floods (Force Majeure Event). For the avoidance of doubt, KDH measurement, aggregation, analysis and data delivery operation is hosted on Amazon Web Services (AWS) cloud infrastructure. Failure or interruption in any aspect of this AWS infrastructure also constitutes a Force Majeur Event because it is beyond reasonable control of Licensor. In any such event, the time limits for performance will be extended for a period of time equivalent to the time lost due to the Force Majeure Event. In order to avail itself of the relief provided in this Section 10.1., the affected Party shall act with due diligence to remedy the cause of, or to mitigate or overcome, such delay or failure.
 

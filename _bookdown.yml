@@ -10,6 +10,7 @@ md_files:
 - 03-global-anomaly.Rmd
 - 04-disclaimer.Rmd
 - 05-license.Rmd
+- 06-due-diligence.Rmd
 
 
 #language:
