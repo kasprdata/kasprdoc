@@ -1,6 +1,89 @@
-# Global Internet Anomaly Products
+# Global Geolocated Internet Intel & Anomaly Products
 
-This document describes the KDH Global ICT Intel & Anomaly Data developed by KASPR Datahaus PTY LTD. Our few-hourly (e.g., 1h, 3h, 6h) regional (national, adm1, or adm2 accordingly) level products provide an aggregated measure of the region's ICT Infrastructure via millions of individual internet protocol (IP) address observations. The product offers the time-varying availability and quality of a region's infrastructure aggregated across the geographic space of the region. As such, the sampling design intentionally emphasizes diversity in geographic units rather than conducting a representative sample of all IP addresses from the region detached from geo-location (see next section).
+The KASPR Global Geolocated Internet Intel & Anomaly products are a suite of data on internet quality, outages and slowdowns at the hourly (1, 3, or 6) and ADM2 (e.g. county, district) level for 136 countries in the world. It contains aggregated measures of a region's ICT Infrastructure, via millions of individual internet protocol (IP) address observations measured by KASPR's proprietary monitoring technology. The raw measurement basis for this product are over 3 billion daily measurements from over 450 million internet connected end-point devices.
+
+
+## Metadata {.unlisted .unnumbered}
+Description | Value  
+----|-----
+Update Frequency | Hourly (1, 3, or 6)
+Geographic Coverage | Global 
+Number of Countries/States/Counties covered | 136/3,000/23,000
+Time period coverage | Since FEB 2019
+Historical data available | Yes, 5 years
+Data Set Format | .tsv
+Raw or scraped data | Raw Data (Aggregated)
+Key Fields |  Country; Province/State; County/District (ADM2); Average Latency and Average Variance in Latency;  Number of days in the year with connectivity and latency anomalies; Distance to the latency frontier; 
+Key Words | geospatial, internet, internet quality, latency, stability, outages
+
+
+
+ 
+## Use Cases {.unlisted .unnumbered}
+
+
+### Situational Awareness  {.unlisted .unnumbered}
+Increase your situational awareness with near-real time updates about local internet quality and anomalies (outages, slow downs) across the world at county/district level.
+
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/zapo_UKR.png")
+```
+
+### Risk Analysis  {.unlisted .unnumbered}
+Near real-time indicators for disruptions in the local internet infrastructure and the digital economy.
+
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/reuters.png")
+```
+
+Read the full data story in [reuters](https://www.reuters.com/graphics/MYANMAR-POLITICS/INTERNET-RESTRICTION/rlgpdbreepo/).
+
+
+### Fundamental Analysis {.unlisted .unnumbered}
+Near real-time and lead indicator for economic fundamentals.
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/index_4panel.png")
+```
+
+### Quantitative Analysis - Algorithmic Trading {.unlisted .unnumbered}
+Potential lead indicator for increased volatility on financial markets as well as disruptions in the telecommunications, cloud services, gaming, SaaS and online retail sector.
+
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/KDH_VIX.png")
+```
+
+### Supply Chain Risks  {.unlisted .unnumbered}
+Near real-time, geo-located indicator for disruptions in counties or districts critical for companies' global supply chain.
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/CHN_covid.png")
+```
+
+
+### Cyber and Parametric Insurance  {.unlisted .unnumbered}
+Use unique historical, consistently measured data to calculate distribution of local outage and slow-down events, derive premiums, define event triggers and set-up trigger events in real-time.
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/sk_c_statistical_graph.png")
+```
+
+
+## Sample Data {.unlisted .unnumbered}
+
+Sample dataset provides immediate access to a static version of a 5% random subsample from a sample of 12 countries, 7,682 ADM2 regions, and 230 unique time-stamps (3-hourly) during February 2024.
+
+Countries included in this sample: Argentina, China, France, India, Indonesia, Mexico, Nigeria, Russia, South Korea, Turkey, United Kingdom, United States.
+
+
+Customized data for individual countries or regions are available.
+
+To purchase the data or options for subscriptions with continuous updates, request access through KASPR and we will reach out to discuss licensing options.
+
+
 
 ## Sampling Design {.unlisted .unnumbered}
 
