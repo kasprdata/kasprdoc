@@ -74,11 +74,10 @@
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Overview</a></li>
 <li class="chapter" data-level="2" data-path="global-subnational-internet-quality-products.html"><a href="global-subnational-internet-quality-products.html"><i class="fa fa-check"></i><b>2</b> Global Subnational Internet Quality Products</a></li>
 <li class="chapter" data-level="3" data-path="global-geolocated-internet-intel-anomaly-products.html"><a href="global-geolocated-internet-intel-anomaly-products.html"><i class="fa fa-check"></i><b>3</b> Global Geolocated Internet Intel &amp; Anomaly Products</a></li>
-<li class="chapter" data-level="4" data-path="global-geolocated-internet-intel-anomaly-products-1.html"><a href="global-geolocated-internet-intel-anomaly-products-1.html"><i class="fa fa-check"></i><b>4</b> Global Geolocated Internet Intel &amp; Anomaly Products</a></li>
-<li class="chapter" data-level="5" data-path="suggested-use-1.html"><a href="suggested-use-1.html"><i class="fa fa-check"></i><b>5</b> Suggested Use</a></li>
-<li class="chapter" data-level="6" data-path="disclaimer.html"><a href="disclaimer.html"><i class="fa fa-check"></i><b>6</b> Disclaimer</a></li>
-<li class="chapter" data-level="7" data-path="license.html"><a href="license.html"><i class="fa fa-check"></i><b>7</b> License</a></li>
-<li class="chapter" data-level="8" data-path="data-due-diligence-questionnaire-ddq.html"><a href="data-due-diligence-questionnaire-ddq.html"><i class="fa fa-check"></i><b>8</b> Data Due Diligence Questionnaire (DDQ)</a></li>
+<li class="chapter" data-level="4" data-path="suggested-use-1.html"><a href="suggested-use-1.html"><i class="fa fa-check"></i><b>4</b> Suggested Use</a></li>
+<li class="chapter" data-level="5" data-path="disclaimer.html"><a href="disclaimer.html"><i class="fa fa-check"></i><b>5</b> Disclaimer</a></li>
+<li class="chapter" data-level="6" data-path="license.html"><a href="license.html"><i class="fa fa-check"></i><b>6</b> License</a></li>
+<li class="chapter" data-level="7" data-path="data-due-diligence-questionnaire-ddq.html"><a href="data-due-diligence-questionnaire-ddq.html"><i class="fa fa-check"></i><b>7</b> Data Due Diligence Questionnaire (DDQ)</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -101,11 +100,171 @@
             <section class="normal" id="section-">
 <div id="global-subnational-internet-quality-products" class="section level1 hasAnchor" number="2">
 <h1><span class="header-section-number">2</span> Global Subnational Internet Quality Products<a href="global-subnational-internet-quality-products.html#global-subnational-internet-quality-products" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>This document describes the KDH Global Subnational Internet Quality Products developed by KASPR Datahaus PTY LTD. This suit of products presents <strong>yearly aggregates</strong> of our few-hourly (e.g. 1h, 3h, 6h) regional (national, adm1, or adm2 accordingly)
-level products provide an aggregated measure of region’s ICT Infrastructure, via millions of individual
-internet protocol (IP v4) address observations. The product provides cross-secitional data on the quality (based on latency) of a region’s infrastructure aggregated across the geographic space of the region. As such,
-the sampling design intentionally emphasises diversity in geographic units rather than conducting a
-representative sample of all IP addresses from the region detached from geo-location (see next section).</p>
+<p>This document describes the KDH Global Subnational Internet Quality Products developed by KASPR Datahaus PTY LTD. This suit of products presents <strong>monthly or yearly aggregates</strong> of our few-hourly (e.g. 1h, 3h, 6h) regional (national, adm1, or adm2 accordingly)
+level products and provide an aggregated measure of region’s ICT Infrastructure. It contains aggregated measures on a rgion’s internet quality, outages, slow-downs and distance to latency frontier. The raw measurement basis for this product are over 3 billion daily measurements from over 450 million internet connected end-point devices.</p>
+<div id="metadata" class="section level2 unlisted unnumbered hasAnchor">
+<h2>Metadata<a href="global-subnational-internet-quality-products.html#metadata" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<table>
+<colgroup>
+<col width="44%" />
+<col width="55%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Description</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Update Frequency</td>
+<td>Monthly, Yearly</td>
+</tr>
+<tr class="even">
+<td>Geographic Coverage</td>
+<td>Global</td>
+</tr>
+<tr class="odd">
+<td>Number of Countries/States/Counties covered</td>
+<td>136/3,000/26,000</td>
+</tr>
+<tr class="even">
+<td>Time period coverage</td>
+<td>Since FEB 2019</td>
+</tr>
+<tr class="odd">
+<td>Historical data available</td>
+<td>Yes, 5 years</td>
+</tr>
+<tr class="even">
+<td>Data Set Format</td>
+<td>.tsv</td>
+</tr>
+<tr class="odd">
+<td>Raw or scraped data</td>
+<td>Raw Data (Aggregated)</td>
+</tr>
+<tr class="even">
+<td>Key Fields</td>
+<td>Country; Province/State; County/District (ADM2); Average Latency and Average Variance in Latency; Number of days in the year with connectivity and latency anomalies; Distance to the latency frontier;</td>
+</tr>
+<tr class="odd">
+<td>Key Words</td>
+<td>geospatial, internet, internet quality, latency, stability, outages</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="use-cases" class="section level2 unlisted unnumbered hasAnchor">
+<h2>Use Cases<a href="global-subnational-internet-quality-products.html#use-cases" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="location-planning" class="section level3 unlisted unnumbered hasAnchor">
+<h3>Location Planning<a href="global-subnational-internet-quality-products.html#location-planning" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Make more accurate location decisions for your critical digital infrastructure (i.e. servers, data centers). Identify districts.counties with high average internet quality, low internet volatility and few connectivity anomalies.</p>
+</div>
+<div id="risk-analysis" class="section level3 unlisted unnumbered hasAnchor">
+<h3>Risk Analysis<a href="global-subnational-internet-quality-products.html#risk-analysis" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Identify areas with high numbers of internet connectivity anomalies, low internet quality or high variability in internet latency.</p>
+</div>
+<div id="location-data-enrichment" class="section level3 unlisted unnumbered hasAnchor">
+<h3>Location Data Enrichment<a href="global-subnational-internet-quality-products.html#location-data-enrichment" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Enhance your geo-spatial risk data products by a information about local internet infrastructure quality.</p>
+</div>
+<div id="geospatial-telecommunications-data" class="section level3 unlisted unnumbered hasAnchor">
+<h3>Geospatial Telecommunications Data<a href="global-subnational-internet-quality-products.html#geospatial-telecommunications-data" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Telecommunication and ISP companies can identify new potential markets.</p>
+<p><img src="images/reuters.png" width="1050" /></p>
+</div>
+</div>
+<div id="sample-data" class="section level2 unlisted unnumbered hasAnchor">
+<h2>Sample Data<a href="global-subnational-internet-quality-products.html#sample-data" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Sample dataset provides immediate access to a static version of a 5% random subsample for the year 2023.</p>
+<p>Full dataset contains information from over 26,000 ADM2 units (i.e. counties/districts) and 136 countries.</p>
+<p>Customized Data for individual countries or regions as well as Internet Service Provider (ISP) level are available per request.</p>
+</div>
+<div id="historical-data-backtesting" class="section level2 unlisted unnumbered hasAnchor">
+<h2>Historical Data &amp; Backtesting<a href="global-subnational-internet-quality-products.html#historical-data-backtesting" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>5 year historical data is available for purchase and backtesting. Data collection has been operating consistently and without interruptions since February 2019.</p>
+<p>Please contact <a href="mailto:info@kasprdata.com" class="email">info@kasprdata.com</a> for further information.</p>
+</div>
+<div id="customization" class="section level2 unlisted unnumbered hasAnchor">
+<h2>Customization<a href="global-subnational-internet-quality-products.html#customization" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>KASPR Datahaus PTY LTD offers additional services to interested parties where our technology can intensively measure the IP space of a subset of over one hundred metropolitan areas around the globe to provide a representative view of these specific, high IP address concentration, large urban agglomerations.</p>
+<p>We welcome inquiries around any aspect of product design that may serve your needs. Please get in touch at <a href="mailto:info@kasprdata.com" class="email">info@kasprdata.com</a>.</p>
+</div>
+<div id="variable-defintions" class="section level2 unlisted unnumbered hasAnchor">
+<h2>Variable Defintions<a href="global-subnational-internet-quality-products.html#variable-defintions" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variable</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>country_iso_three_char_code</td>
+<td>Country’s 3-digit ISO code</td>
+</tr>
+<tr class="even">
+<td>country_iso_name</td>
+<td>Country name</td>
+</tr>
+<tr class="odd">
+<td>* adm1_name</td>
+<td>Name of the ADM1 unit. ADM1 refers to a country’s first, administrative unit at the subnational level (e.g. States in the US, Bundeslaender in Germany, or Provinces in China).</td>
+</tr>
+<tr class="even">
+<td>* adm1id</td>
+<td>Unique alpha-numerical identifier for the ADM1 unit. Combination of <code>country_iso_three_char_code</code> and an integer.</td>
+</tr>
+<tr class="odd">
+<td>** adm2_name</td>
+<td>Name of the ADM2 unit. ADM2 refers to a country’s second, administrative unit at the subnational level (e.g. Counties in the US, LGAs in Australia).</td>
+</tr>
+<tr class="even">
+<td>** adm2id</td>
+<td>Unique alpha-numerical identifier for the ADM2 unit. Combination of <code>adm1_unique_identifier</code> and an integer.</td>
+</tr>
+<tr class="odd">
+<td>year</td>
+<td>Year</td>
+</tr>
+<tr class="even">
+<td>rtt_variance_norm</td>
+<td>Average Variance in Latency (ping response time in ms). Higher values indicate more volatility in internet connectivity during that period.</td>
+</tr>
+<tr class="odd">
+<td>rtt_mean_norm</td>
+<td>Average Latency (ping response time in ms). Higher values indicate lower average quality in internet connectivity during that period.</td>
+</tr>
+<tr class="even">
+<td>rtt_mean_norm_adj</td>
+<td>Average Latency (ping response time in ms) adjusted to account for monthly infrastructure sampling baseline shifts. See main document for details.</td>
+</tr>
+<tr class="odd">
+<td>connectivity_out_2sd</td>
+<td>Number of days in <em>year</em> when connectivity (unique # of active IPs) was 2 standard deviations below the median connectivity.</td>
+</tr>
+<tr class="even">
+<td>latency_out_3sd</td>
+<td>Number of days in <em>year</em> when <em>rtt_mean_norm</em> was 3 standard deviations above the median latency.</td>
+</tr>
+<tr class="odd">
+<td>rtt_d</td>
+<td>Absolute difference between <em>rtt_mean_norm</em> and minimum latency in the country (rtt_min). Distance to the latency frontier. Higher values indicate relatively lower quality.</td>
+</tr>
+<tr class="even">
+<td>rtt_dp</td>
+<td>Percentage difference between <em>rtt_mean_norm</em> and minimum latency in the country (rtt_min). Distance to the latency frontier. Higher values indicate relatively lower quality.</td>
+</tr>
+</tbody>
+</table>
+
+</div>
 </div>
             </section>
 

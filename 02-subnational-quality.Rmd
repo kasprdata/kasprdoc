@@ -1,22 +1,16 @@
 # Global Subnational Internet Quality Products
 
-This document describes the KDH Global Subnational Internet Quality Products developed by KASPR Datahaus PTY LTD. This suit of products presents **yearly aggregates** of our few-hourly (e.g. 1h, 3h, 6h) regional (national, adm1, or adm2 accordingly)
-level products provide an aggregated measure of region’s ICT Infrastructure, via millions of individual
-internet protocol (IP v4) address observations. The product provides cross-secitional data on the quality (based on latency) of a region’s infrastructure aggregated across the geographic space of the region. As such,
-the sampling design intentionally emphasises diversity in geographic units rather than conducting a
-representative sample of all IP addresses from the region detached from geo-location (see next section).
+This document describes the KDH Global Subnational Internet Quality Products developed by KASPR Datahaus PTY LTD. This suit of products presents **monthly or yearly aggregates** of our few-hourly (e.g. 1h, 3h, 6h) regional (national, adm1, or adm2 accordingly)
+level products and provide an aggregated measure of region’s ICT Infrastructure.  It contains aggregated measures on a rgion's internet quality, outages, slow-downs and distance to latency frontier.  The raw measurement basis for this product are over 3 billion daily measurements from over 450 million internet connected end-point devices. 
 
-# Global Geolocated Internet Intel & Anomaly Products
-
-The KASPR Global Geolocated Internet Intel & Anomaly products are a suite of data on internet quality, outages and slowdowns at the hourly (1, 3, or 6) and ADM2 (e.g. county, district) level for 136 countries in the world. It contains aggregated measures of a region's ICT Infrastructure, via millions of individual internet protocol (IP) address observations measured by KASPR's proprietary monitoring technology. The raw measurement basis for this product are over 3 billion daily measurements from over 450 million internet connected end-point devices.
 
 
 ## Metadata {.unlisted .unnumbered}
 Description | Value  
 ----|-----
-Update Frequency | Hourly (1, 3, or 6)
+Update Frequency | Monthly, Yearly
 Geographic Coverage | Global 
-Number of Countries/States/Counties covered | 136/3,000/23,000
+Number of Countries/States/Counties covered | 136/3,000/26,000
 Time period coverage | Since FEB 2019
 Historical data available | Yes, 5 years
 Data Set Format | .tsv
