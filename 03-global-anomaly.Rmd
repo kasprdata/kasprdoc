@@ -13,7 +13,7 @@ Time period coverage | Since FEB 2019
 Historical data available | Yes, 5 years
 Data Set Format | .tsv
 Raw or scraped data | Raw Data (Aggregated)
-Key Fields |  Country; Province/State; County/District (ADM2); Average Latency and Average Variance in Latency;  Number of days in the year with connectivity and latency anomalies; Distance to the latency frontier; 
+Key Fields |  Country; Province/State; County/District (ADM2); Average Latency and Average Variance in Latency; Timestamp (UTC & local); Connectivity and Latency Anomaly Index; Connectivity and Latency Anomaly Alert
 Key Words | geospatial, internet, internet quality, latency, stability, outages
 
 
