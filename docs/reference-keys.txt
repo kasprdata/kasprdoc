@@ -1,7 +1,7 @@
 overview
 global-subnational-internet-quality-products
 global-geolocated-internet-intel-anomaly-products
-suggested-use-1
+support
 disclaimer
 license
 data-due-diligence-questionnaire-ddq
