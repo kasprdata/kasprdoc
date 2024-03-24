@@ -10,7 +10,7 @@ Description | Value
 ----|-----
 Update Frequency | Monthly, Yearly
 Geographic Coverage | Global 
-Number of Countries/States/Counties covered | 136/3,000/26,000
+Number of Countries/States/Counties covered | 136/2,921/26,324
 Time period coverage | Since FEB 2019
 Historical data available | Yes, 5 years
 Data Set Format | .tsv
