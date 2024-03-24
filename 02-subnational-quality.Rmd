@@ -27,18 +27,33 @@ Key Words | geospatial, internet, internet quality, latency, stability, outages
 ### Location Planning  {.unlisted .unnumbered}
 Make more accurate location decisions for your critical digital infrastructure (i.e. servers, data centers). Identify districts.counties with high average internet quality, low internet volatility and few connectivity anomalies.
 
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/ADM2_CHN_TWN_IP.png")
+```
+
+
+
 ### Risk Analysis  {.unlisted .unnumbered}
 Identify areas with high numbers of internet connectivity anomalies, low internet quality or high variability in internet latency.
 
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/pressure.png")
+```
+
+
 ### Location Data Enrichment  {.unlisted .unnumbered}
 Enhance your geo-spatial risk data products by a information about local internet infrastructure quality.
+
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/india.png")
+```
 
 ### Geospatial Telecommunications Data  {.unlisted .unnumbered}
 Telecommunication and ISP companies can identify new potential markets.
 
 
  ```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("images/reuters.png")
+knitr::include_graphics("images/ADM2_US_ISP.png")
 ```
 
  
