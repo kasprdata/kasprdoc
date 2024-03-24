@@ -30,6 +30,10 @@ Increase your situational awareness with near-real time updates about local inte
 knitr::include_graphics("images/zapo_UKR.png")
 ```
 
+ ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("images/florence.png")
+```
+
 ### Risk Analysis  {.unlisted .unnumbered}
 Near real-time indicators for disruptions in the local internet infrastructure and the digital economy.
 
