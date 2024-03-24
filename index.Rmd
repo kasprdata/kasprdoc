@@ -19,6 +19,17 @@ Welcome to the KASPR Datahaus Data Documentation.
 
 In this document you can learn more about our data products and find codebooks with variable definitions.
 
+KASPR Datahaus has built a measurement technology with a humanity-first approach that substantially broadens the applicability of internet intel data. Our global infrastructure continuously measures hundreds of millions of online fixed internet end-points and we provide our clients with data on internet activity of unmatched temporal and spatial, 24/7, everywhere around the world.
+
+The *KASPR Technology Advantage:*
+
+- **Consistency in Measurement:** Required to define the “baseline state” of the internet in a location and essential to accurately identify anomalies or make predictions.
+
+- **Spatial and temporal granularity:** Resolution of up to 15 min/hourly/3-hourly intervals and measurements at the endpoint level.
+
+- **Remote measurement technology:** We are in control of the timing and location of the measurement. Flexible and GDPR compliant.
+
+
 
 This document describes the KDH Global ICT Intel & Anomaly Data developed by KASPR Datahaus PTY LTD. Our few-hourly (e.g., 1h, 3h, 6h) regional (national, adm1, or adm2 accordingly) level products provide an aggregated measure of the region's ICT Infrastructure via millions of individual internet protocol (IP) address observations. The product offers the time-varying availability and quality of a region's infrastructure aggregated across the geographic space of the region. As such, the sampling design intentionally emphasizes diversity in geographic units rather than conducting a representative sample of all IP addresses from the region detached from geo-location (see next section).
 
