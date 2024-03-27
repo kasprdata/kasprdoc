@@ -1,0 +1,558 @@
+country_iso_name,name_1,name_2,year,month
+India,Andaman and Nicobar,Andaman Islands,2023,12
+India,Andhra Pradesh,Adilabad,2023,12
+India,Andhra Pradesh,Anantapur,2023,12
+India,Andhra Pradesh,Chittoor,2023,12
+India,Andhra Pradesh,Cuddapah,2023,12
+India,Andhra Pradesh,East Godavari,2023,12
+India,Andhra Pradesh,Guntur,2023,12
+India,Andhra Pradesh,Hyderabad,2023,12
+India,Andhra Pradesh,Karimnagar,2023,12
+India,Andhra Pradesh,Khammam,2023,12
+India,Andhra Pradesh,Krishna,2023,12
+India,Andhra Pradesh,Kurnool,2023,12
+India,Andhra Pradesh,Mahbubnagar,2023,12
+India,Andhra Pradesh,Medak,2023,12
+India,Andhra Pradesh,Nalgonda,2023,12
+India,Andhra Pradesh,Nellore,2023,12
+India,Andhra Pradesh,Nizamabad,2023,12
+India,Andhra Pradesh,Prakasam,2023,12
+India,Andhra Pradesh,Rangareddi,2023,12
+India,Andhra Pradesh,Srikakulam,2023,12
+India,Andhra Pradesh,Vishakhapatnam,2023,12
+India,Andhra Pradesh,Vizianagaram,2023,12
+India,Andhra Pradesh,Warangal,2023,12
+India,Andhra Pradesh,West Godavari,2023,12
+India,Arunachal Pradesh,Changlang,2023,12
+India,Arunachal Pradesh,East Kameng,2023,12
+India,Arunachal Pradesh,Lohit,2023,12
+India,Arunachal Pradesh,Lower Dibang Valley,2023,12
+India,Arunachal Pradesh,Lower Subansiri,2023,12
+India,Arunachal Pradesh,Papum Pare,2023,12
+India,Arunachal Pradesh,West Kameng,2023,12
+India,Arunachal Pradesh,West Siang,2023,12
+India,Assam,Barpeta,2023,12
+India,Assam,Bongaigaon,2023,12
+India,Assam,Cachar,2023,12
+India,Assam,Darrang,2023,12
+India,Assam,Dhuburi,2023,12
+India,Assam,Dibrugarh,2023,12
+India,Assam,Goalpara,2023,12
+India,Assam,Golaghat,2023,12
+India,Assam,Jorhat,2023,12
+India,Assam,Kamrup,2023,12
+India,Assam,Karbi Anglong,2023,12
+India,Assam,Karimganj,2023,12
+India,Assam,Kokrajhar,2023,12
+India,Assam,Lakhimpur,2023,12
+India,Assam,Marigaon,2023,12
+India,Assam,Nagaon,2023,12
+India,Assam,Nalbari,2023,12
+India,Assam,North Cachar Hills,2023,12
+India,Assam,Sibsagar,2023,12
+India,Assam,Sonitpur,2023,12
+India,Assam,Tinsukia,2023,12
+India,Bihar,Araria,2023,12
+India,Bihar,Aurangabad,2023,12
+India,Bihar,Banka,2023,12
+India,Bihar,Begusarai,2023,12
+India,Bihar,Bhabua,2023,12
+India,Bihar,Bhagalpur,2023,12
+India,Bihar,Bhojpur,2023,12
+India,Bihar,Buxar,2023,12
+India,Bihar,Darbhanga,2023,12
+India,Bihar,Gaya,2023,12
+India,Bihar,Gopalganj,2023,12
+India,Bihar,Jamui,2023,12
+India,Bihar,Jehanabad,2023,12
+India,Bihar,Katihar,2023,12
+India,Bihar,Khagaria,2023,12
+India,Bihar,Kishanganj,2023,12
+India,Bihar,Lakhisarai,2023,12
+India,Bihar,Madhepura,2023,12
+India,Bihar,Madhubani,2023,12
+India,Bihar,Munger,2023,12
+India,Bihar,Muzaffarpur,2023,12
+India,Bihar,Nalanda,2023,12
+India,Bihar,Nawada,2023,12
+India,Bihar,Pashchim Champaran,2023,12
+India,Bihar,Patna,2023,12
+India,Bihar,Purba Champaran,2023,12
+India,Bihar,Purnia,2023,12
+India,Bihar,Rohtas,2023,12
+India,Bihar,Saharsa,2023,12
+India,Bihar,Samastipur,2023,12
+India,Bihar,Saran,2023,12
+India,Bihar,Sitamarhi,2023,12
+India,Bihar,Siwan,2023,12
+India,Bihar,Supaul,2023,12
+India,Bihar,Vaishali,2023,12
+India,Chandigarh,Chandigarh,2023,12
+India,Chhattisgarh,Bastar,2023,12
+India,Chhattisgarh,Bilaspur,2023,12
+India,Chhattisgarh,Dantewada,2023,12
+India,Chhattisgarh,Dhamtari,2023,12
+India,Chhattisgarh,Durg,2023,12
+India,Chhattisgarh,Janjgir-Champa,2023,12
+India,Chhattisgarh,Kanker,2023,12
+India,Chhattisgarh,Kawardha,2023,12
+India,Chhattisgarh,Korba,2023,12
+India,Chhattisgarh,Koriya,2023,12
+India,Chhattisgarh,Mahasamund,2023,12
+India,Chhattisgarh,Raigarh,2023,12
+India,Chhattisgarh,Raipur,2023,12
+India,Chhattisgarh,Raj Nandgaon,2023,12
+India,Chhattisgarh,Surguja,2023,12
+India,Dadra and Nagar Haveli,Dadra and Nagar Haveli,2023,12
+India,Daman and Diu,Daman,2023,12
+India,Delhi,Delhi,2023,12
+India,Goa,North Goa,2023,12
+India,Goa,South Goa,2023,12
+India,Gujarat,Ahmadabad,2023,12
+India,Gujarat,Amreli,2023,12
+India,Gujarat,Anand,2023,12
+India,Gujarat,Banas Kantha,2023,12
+India,Gujarat,Bharuch,2023,12
+India,Gujarat,Bhavnagar,2023,12
+India,Gujarat,Dahod,2023,12
+India,Gujarat,Gandhinagar,2023,12
+India,Gujarat,Jamnagar,2023,12
+India,Gujarat,Junagadh,2023,12
+India,Gujarat,Kachchh,2023,12
+India,Gujarat,Kheda,2023,12
+India,Gujarat,Mahesana,2023,12
+India,Gujarat,Narmada,2023,12
+India,Gujarat,Navsari,2023,12
+India,Gujarat,Panch Mahals,2023,12
+India,Gujarat,Patan,2023,12
+India,Gujarat,Porbandar,2023,12
+India,Gujarat,Rajkot,2023,12
+India,Gujarat,Sabar Kantha,2023,12
+India,Gujarat,Surat,2023,12
+India,Gujarat,Surendranagar,2023,12
+India,Gujarat,The Dangs,2023,12
+India,Gujarat,Vadodara,2023,12
+India,Gujarat,Valsad,2023,12
+India,Haryana,Ambala,2023,12
+India,Haryana,Bhiwani,2023,12
+India,Haryana,Faridabad,2023,12
+India,Haryana,Fatehabad,2023,12
+India,Haryana,Gurgaon,2023,12
+India,Haryana,Hisar,2023,12
+India,Haryana,Jhajjar,2023,12
+India,Haryana,Jind,2023,12
+India,Haryana,Kaithal,2023,12
+India,Haryana,Karnal,2023,12
+India,Haryana,Kurukshetra,2023,12
+India,Haryana,Mahendragarh,2023,12
+India,Haryana,Panchkula,2023,12
+India,Haryana,Panipat,2023,12
+India,Haryana,Rewari,2023,12
+India,Haryana,Rohtak,2023,12
+India,Haryana,Sirsa,2023,12
+India,Haryana,Sonepat,2023,12
+India,Haryana,Yamuna Nagar,2023,12
+India,Himachal Pradesh,Bilaspur,2023,12
+India,Himachal Pradesh,Chamba,2023,12
+India,Himachal Pradesh,Hamirpur,2023,12
+India,Himachal Pradesh,Kangra,2023,12
+India,Himachal Pradesh,Kinnaur,2023,12
+India,Himachal Pradesh,Kullu,2023,12
+India,Himachal Pradesh,Mandi,2023,12
+India,Himachal Pradesh,Shimla,2023,12
+India,Himachal Pradesh,Sirmaur,2023,12
+India,Himachal Pradesh,Solan,2023,12
+India,Himachal Pradesh,Una,2023,12
+India,Jammu and Kashmir,Anantnag (Kashmir South),2023,12
+India,Jammu and Kashmir,Bagdam,2023,12
+India,Jammu and Kashmir,Baramula (Kashmir North),2023,12
+India,Jammu and Kashmir,Doda,2023,12
+India,Jammu and Kashmir,Jammu,2023,12
+India,Jammu and Kashmir,Kargil,2023,12
+India,Jammu and Kashmir,Kathua,2023,12
+India,Jammu and Kashmir,Kupwara (Muzaffarabad),2023,12
+India,Jammu and Kashmir,Ladakh (Leh),2023,12
+India,Jammu and Kashmir,Pulwama,2023,12
+India,Jammu and Kashmir,Punch,2023,12
+India,Jammu and Kashmir,Rajauri,2023,12
+India,Jammu and Kashmir,Udhampur,2023,12
+India,Jharkhand,Bokaro,2023,12
+India,Jharkhand,Chatra,2023,12
+India,Jharkhand,Deoghar,2023,12
+India,Jharkhand,Dhanbad,2023,12
+India,Jharkhand,Dumka,2023,12
+India,Jharkhand,Garhwa,2023,12
+India,Jharkhand,Giridih,2023,12
+India,Jharkhand,Godda,2023,12
+India,Jharkhand,Gumla,2023,12
+India,Jharkhand,Hazaribag,2023,12
+India,Jharkhand,Latehar,2023,12
+India,Jharkhand,Pakur,2023,12
+India,Jharkhand,Palamu,2023,12
+India,Jharkhand,Pashchim Singhbhum,2023,12
+India,Jharkhand,Purba Singhbhum,2023,12
+India,Jharkhand,Ranchi,2023,12
+India,Jharkhand,Sahibganj,2023,12
+India,Jharkhand,Saraikela Kharsawan,2023,12
+India,Karnataka,Bagalkot,2023,12
+India,Karnataka,Bangalore Rural,2023,12
+India,Karnataka,Bangalore Urban,2023,12
+India,Karnataka,Belgaum,2023,12
+India,Karnataka,Bellary,2023,12
+India,Karnataka,Bidar,2023,12
+India,Karnataka,Bijapur,2023,12
+India,Karnataka,Chamrajnagar,2023,12
+India,Karnataka,Chikmagalur,2023,12
+India,Karnataka,Chitradurga,2023,12
+India,Karnataka,Dakshin Kannad,2023,12
+India,Karnataka,Davanagere,2023,12
+India,Karnataka,Dharwad,2023,12
+India,Karnataka,Gadag,2023,12
+India,Karnataka,Gulbarga,2023,12
+India,Karnataka,Hassan,2023,12
+India,Karnataka,Haveri,2023,12
+India,Karnataka,Kodagu,2023,12
+India,Karnataka,Kolar,2023,12
+India,Karnataka,Koppal,2023,12
+India,Karnataka,Mandya,2023,12
+India,Karnataka,Mysore,2023,12
+India,Karnataka,Raichur,2023,12
+India,Karnataka,Shimoga,2023,12
+India,Karnataka,Tumkur,2023,12
+India,Karnataka,Udupi,2023,12
+India,Karnataka,Uttar Kannand,2023,12
+India,Kerala,Alappuzha,2023,12
+India,Kerala,Ernakulam,2023,12
+India,Kerala,Idukki,2023,12
+India,Kerala,Kannur,2023,12
+India,Kerala,Kasaragod,2023,12
+India,Kerala,Kollam,2023,12
+India,Kerala,Kottayam,2023,12
+India,Kerala,Kozhikode,2023,12
+India,Kerala,Malappuram,2023,12
+India,Kerala,Palakkad,2023,12
+India,Kerala,Pattanamtitta,2023,12
+India,Kerala,Thiruvananthapuram,2023,12
+India,Kerala,Thrissur,2023,12
+India,Kerala,Wayanad,2023,12
+India,Madhya Pradesh,Anuppur,2023,12
+India,Madhya Pradesh,Ashoknagar,2023,12
+India,Madhya Pradesh,Balaghat,2023,12
+India,Madhya Pradesh,Barwani,2023,12
+India,Madhya Pradesh,Betul,2023,12
+India,Madhya Pradesh,Bhind,2023,12
+India,Madhya Pradesh,Bhopal,2023,12
+India,Madhya Pradesh,Burhanpur,2023,12
+India,Madhya Pradesh,Chhatarpur,2023,12
+India,Madhya Pradesh,Chhindwara,2023,12
+India,Madhya Pradesh,Damoh,2023,12
+India,Madhya Pradesh,Datia,2023,12
+India,Madhya Pradesh,Dewas,2023,12
+India,Madhya Pradesh,Dhar,2023,12
+India,Madhya Pradesh,Dindori,2023,12
+India,Madhya Pradesh,East Nimar,2023,12
+India,Madhya Pradesh,Guna,2023,12
+India,Madhya Pradesh,Gwalior,2023,12
+India,Madhya Pradesh,Harda,2023,12
+India,Madhya Pradesh,Hoshangabad,2023,12
+India,Madhya Pradesh,Indore,2023,12
+India,Madhya Pradesh,Jabalpur,2023,12
+India,Madhya Pradesh,Jhabua,2023,12
+India,Madhya Pradesh,Katni,2023,12
+India,Madhya Pradesh,Mandla,2023,12
+India,Madhya Pradesh,Mandsaur,2023,12
+India,Madhya Pradesh,Morena,2023,12
+India,Madhya Pradesh,Narsinghpur,2023,12
+India,Madhya Pradesh,Neemuch,2023,12
+India,Madhya Pradesh,Panna,2023,12
+India,Madhya Pradesh,Raisen,2023,12
+India,Madhya Pradesh,Rajgarh,2023,12
+India,Madhya Pradesh,Ratlam,2023,12
+India,Madhya Pradesh,Rewa,2023,12
+India,Madhya Pradesh,Sagar,2023,12
+India,Madhya Pradesh,Satna,2023,12
+India,Madhya Pradesh,Sehore,2023,12
+India,Madhya Pradesh,Seoni,2023,12
+India,Madhya Pradesh,Shahdol,2023,12
+India,Madhya Pradesh,Shajapur,2023,12
+India,Madhya Pradesh,Shivpuri,2023,12
+India,Madhya Pradesh,Sidhi,2023,12
+India,Madhya Pradesh,Tikamgarh,2023,12
+India,Madhya Pradesh,Ujjain,2023,12
+India,Madhya Pradesh,Umaria,2023,12
+India,Madhya Pradesh,Vidisha,2023,12
+India,Madhya Pradesh,West Nimar,2023,12
+India,Maharashtra,Ahmednagar,2023,12
+India,Maharashtra,Akola,2023,12
+India,Maharashtra,Amravati,2023,12
+India,Maharashtra,Aurangabad,2023,12
+India,Maharashtra,Bhandara,2023,12
+India,Maharashtra,Bid,2023,12
+India,Maharashtra,Buldana,2023,12
+India,Maharashtra,Chandrapur,2023,12
+India,Maharashtra,Dhule,2023,12
+India,Maharashtra,Gondiya,2023,12
+India,Maharashtra,Greater Bombay,2023,12
+India,Maharashtra,Hingoli,2023,12
+India,Maharashtra,Jalgaon,2023,12
+India,Maharashtra,Jalna,2023,12
+India,Maharashtra,Kolhapur,2023,12
+India,Maharashtra,Latur,2023,12
+India,Maharashtra,Nagpur,2023,12
+India,Maharashtra,Nanded,2023,12
+India,Maharashtra,Nandurbar,2023,12
+India,Maharashtra,Nashik,2023,12
+India,Maharashtra,Osmanabad,2023,12
+India,Maharashtra,Parbhani,2023,12
+India,Maharashtra,Pune,2023,12
+India,Maharashtra,Raigarh,2023,12
+India,Maharashtra,Ratnagiri,2023,12
+India,Maharashtra,Sangli,2023,12
+India,Maharashtra,Satara,2023,12
+India,Maharashtra,Sindhudurg,2023,12
+India,Maharashtra,Solapur,2023,12
+India,Maharashtra,Thane,2023,12
+India,Maharashtra,Wardha,2023,12
+India,Maharashtra,Washim,2023,12
+India,Maharashtra,Yavatmal,2023,12
+India,Manipur,Bishnupur,2023,12
+India,Manipur,Churachandpur,2023,12
+India,Manipur,East Imphal,2023,12
+India,Manipur,Senapati,2023,12
+India,Manipur,Tamenglong,2023,12
+India,Manipur,Thoubal,2023,12
+India,Manipur,Ukhrul,2023,12
+India,Manipur,West Imphal,2023,12
+India,Meghalaya,East Garo Hills,2023,12
+India,Meghalaya,East Khasi Hills,2023,12
+India,Meghalaya,Jaintia Hills,2023,12
+India,Meghalaya,Ri-Bhoi,2023,12
+India,Meghalaya,South Garo Hills,2023,12
+India,Meghalaya,West Garo Hills,2023,12
+India,Meghalaya,West Khasi Hills,2023,12
+India,Mizoram,Aizawl,2023,12
+India,Mizoram,Champhai,2023,12
+India,Mizoram,Kolasib,2023,12
+India,Mizoram,Lunglei,2023,12
+India,Mizoram,Mamit,2023,12
+India,Nagaland,Dimapur,2023,12
+India,Nagaland,Kohima,2023,12
+India,Nagaland,Mokokchung,2023,12
+India,Orissa,Angul,2023,12
+India,Orissa,Baleshwar,2023,12
+India,Orissa,Baragarh,2023,12
+India,Orissa,Bhadrak,2023,12
+India,Orissa,Bolangir,2023,12
+India,Orissa,Boudh,2023,12
+India,Orissa,Cuttack,2023,12
+India,Orissa,Dhenkanal,2023,12
+India,Orissa,Gajapati,2023,12
+India,Orissa,Ganjam,2023,12
+India,Orissa,Jagatsinghpur,2023,12
+India,Orissa,Jajpur,2023,12
+India,Orissa,Jharsuguda,2023,12
+India,Orissa,Kalahandi,2023,12
+India,Orissa,Kandhamal,2023,12
+India,Orissa,Kendrapara,2023,12
+India,Orissa,Keonjhar,2023,12
+India,Orissa,Khordha,2023,12
+India,Orissa,Koraput,2023,12
+India,Orissa,Malkangiri,2023,12
+India,Orissa,Mayurbhanj,2023,12
+India,Orissa,Nabarangpur,2023,12
+India,Orissa,Nayagarh,2023,12
+India,Orissa,Nuapada,2023,12
+India,Orissa,Puri,2023,12
+India,Orissa,Rayagada,2023,12
+India,Orissa,Sambalpur,2023,12
+India,Orissa,Sonepur,2023,12
+India,Orissa,Sundargarh,2023,12
+India,Puducherry,Karaikal,2023,12
+India,Puducherry,Puducherry,2023,12
+India,Punjab,Amritsar,2023,12
+India,Punjab,Bathinda,2023,12
+India,Punjab,Faridkot,2023,12
+India,Punjab,Fatehgarh Sahib,2023,12
+India,Punjab,Firozpur,2023,12
+India,Punjab,Gurdaspur,2023,12
+India,Punjab,Hoshiarpur,2023,12
+India,Punjab,Jalandhar,2023,12
+India,Punjab,Kapurthala,2023,12
+India,Punjab,Ludhiana,2023,12
+India,Punjab,Mansa,2023,12
+India,Punjab,Moga,2023,12
+India,Punjab,Muktsar,2023,12
+India,Punjab,Nawan Shehar,2023,12
+India,Punjab,Patiala,2023,12
+India,Punjab,Rupnagar,2023,12
+India,Punjab,Sangrur,2023,12
+India,Rajasthan,Ajmer,2023,12
+India,Rajasthan,Alwar,2023,12
+India,Rajasthan,Banswara,2023,12
+India,Rajasthan,Baran,2023,12
+India,Rajasthan,Barmer,2023,12
+India,Rajasthan,Bharatpur,2023,12
+India,Rajasthan,Bhilwara,2023,12
+India,Rajasthan,Bikaner,2023,12
+India,Rajasthan,Bundi,2023,12
+India,Rajasthan,Chittaurgarh,2023,12
+India,Rajasthan,Churu,2023,12
+India,Rajasthan,Dausa,2023,12
+India,Rajasthan,Dhaulpur,2023,12
+India,Rajasthan,Dungarpur,2023,12
+India,Rajasthan,Ganganagar,2023,12
+India,Rajasthan,Hanumangarh,2023,12
+India,Rajasthan,Jaipur,2023,12
+India,Rajasthan,Jaisalmer,2023,12
+India,Rajasthan,Jalor,2023,12
+India,Rajasthan,Jhalawar,2023,12
+India,Rajasthan,Jhunjhunun,2023,12
+India,Rajasthan,Jodhpur,2023,12
+India,Rajasthan,Karauli,2023,12
+India,Rajasthan,Kota,2023,12
+India,Rajasthan,Nagaur,2023,12
+India,Rajasthan,Pali,2023,12
+India,Rajasthan,Rajsamand,2023,12
+India,Rajasthan,Sawai Madhopur,2023,12
+India,Rajasthan,Sikar,2023,12
+India,Rajasthan,Sirohi,2023,12
+India,Rajasthan,Tonk,2023,12
+India,Rajasthan,Udaipur,2023,12
+India,Sikkim,East,2023,12
+India,Sikkim,North Sikkim,2023,12
+India,Sikkim,South Sikkim,2023,12
+India,Sikkim,West Sikkim,2023,12
+India,Tamil Nadu,Ariyalur,2023,12
+India,Tamil Nadu,Chennai,2023,12
+India,Tamil Nadu,Coimbatore,2023,12
+India,Tamil Nadu,Cuddalore,2023,12
+India,Tamil Nadu,Dharmapuri,2023,12
+India,Tamil Nadu,Dindigul,2023,12
+India,Tamil Nadu,Erode,2023,12
+India,Tamil Nadu,Kancheepuram,2023,12
+India,Tamil Nadu,Kanniyakumari,2023,12
+India,Tamil Nadu,Karur,2023,12
+India,Tamil Nadu,Madurai,2023,12
+India,Tamil Nadu,Nagapattinam,2023,12
+India,Tamil Nadu,Namakkal,2023,12
+India,Tamil Nadu,Nilgiris,2023,12
+India,Tamil Nadu,Perambalur,2023,12
+India,Tamil Nadu,Pudukkottai,2023,12
+India,Tamil Nadu,Ramanathapuram,2023,12
+India,Tamil Nadu,Salem,2023,12
+India,Tamil Nadu,Sivaganga,2023,12
+India,Tamil Nadu,Thanjavur,2023,12
+India,Tamil Nadu,Theni,2023,12
+India,Tamil Nadu,Thiruvallur,2023,12
+India,Tamil Nadu,Thiruvarur,2023,12
+India,Tamil Nadu,Thoothukudi,2023,12
+India,Tamil Nadu,Tiruchchirappalli,2023,12
+India,Tamil Nadu,Tirunelveli Kattabo,2023,12
+India,Tamil Nadu,Tiruvannamalai,2023,12
+India,Tamil Nadu,Vellore,2023,12
+India,Tamil Nadu,Villupuram,2023,12
+India,Tamil Nadu,Virudhunagar,2023,12
+India,Tripura,North Tripura,2023,12
+India,Tripura,South Tripura,2023,12
+India,Tripura,West Tripura,2023,12
+India,Uttar Pradesh,Agra,2023,12
+India,Uttar Pradesh,Aligarh,2023,12
+India,Uttar Pradesh,Allahabad,2023,12
+India,Uttar Pradesh,Ambedkar Nagar,2023,12
+India,Uttar Pradesh,Auraiya,2023,12
+India,Uttar Pradesh,Azamgarh,2023,12
+India,Uttar Pradesh,Badaun,2023,12
+India,Uttar Pradesh,Baghpat,2023,12
+India,Uttar Pradesh,Bahraich,2023,12
+India,Uttar Pradesh,Ballia,2023,12
+India,Uttar Pradesh,Balrampur,2023,12
+India,Uttar Pradesh,Banda,2023,12
+India,Uttar Pradesh,Bara Banki,2023,12
+India,Uttar Pradesh,Bareilly,2023,12
+India,Uttar Pradesh,Basti,2023,12
+India,Uttar Pradesh,Bijnor,2023,12
+India,Uttar Pradesh,Bulandshahr,2023,12
+India,Uttar Pradesh,Chandauli,2023,12
+India,Uttar Pradesh,Chitrakoot,2023,12
+India,Uttar Pradesh,Deoria,2023,12
+India,Uttar Pradesh,Etah,2023,12
+India,Uttar Pradesh,Etawah,2023,12
+India,Uttar Pradesh,Faizabad,2023,12
+India,Uttar Pradesh,Farrukhabad,2023,12
+India,Uttar Pradesh,Fatehpur,2023,12
+India,Uttar Pradesh,Firozabad,2023,12
+India,Uttar Pradesh,Gautam Buddha Nagar,2023,12
+India,Uttar Pradesh,Ghaziabad,2023,12
+India,Uttar Pradesh,Ghazipur,2023,12
+India,Uttar Pradesh,Gonda,2023,12
+India,Uttar Pradesh,Gorakhpur,2023,12
+India,Uttar Pradesh,Hamirpur,2023,12
+India,Uttar Pradesh,Hardoi,2023,12
+India,Uttar Pradesh,Hathras,2023,12
+India,Uttar Pradesh,Jalaun,2023,12
+India,Uttar Pradesh,Jaunpur,2023,12
+India,Uttar Pradesh,Jhansi,2023,12
+India,Uttar Pradesh,Jyotiba Phule Nagar,2023,12
+India,Uttar Pradesh,Kannauj,2023,12
+India,Uttar Pradesh,Kanpur,2023,12
+India,Uttar Pradesh,Kanpur Dehat,2023,12
+India,Uttar Pradesh,Kaushambi,2023,12
+India,Uttar Pradesh,Kushinagar,2023,12
+India,Uttar Pradesh,Lakhimpur Kheri,2023,12
+India,Uttar Pradesh,Lalitpur,2023,12
+India,Uttar Pradesh,Lucknow,2023,12
+India,Uttar Pradesh,Maharajganj,2023,12
+India,Uttar Pradesh,Mahoba,2023,12
+India,Uttar Pradesh,Mainpuri,2023,12
+India,Uttar Pradesh,Mathura,2023,12
+India,Uttar Pradesh,Mau,2023,12
+India,Uttar Pradesh,Meerut,2023,12
+India,Uttar Pradesh,Mirzapur,2023,12
+India,Uttar Pradesh,Moradabad,2023,12
+India,Uttar Pradesh,Muzaffarnagar,2023,12
+India,Uttar Pradesh,Pilibhit,2023,12
+India,Uttar Pradesh,Pratapgarh,2023,12
+India,Uttar Pradesh,Rae Bareli,2023,12
+India,Uttar Pradesh,Rampur,2023,12
+India,Uttar Pradesh,Saharanpur,2023,12
+India,Uttar Pradesh,Sant Kabir Nagar,2023,12
+India,Uttar Pradesh,Sant Ravi Das Nagar,2023,12
+India,Uttar Pradesh,Shahjahanpur,2023,12
+India,Uttar Pradesh,Shravasti,2023,12
+India,Uttar Pradesh,Siddharth Nagar,2023,12
+India,Uttar Pradesh,Sitapur,2023,12
+India,Uttar Pradesh,Sonbhadra,2023,12
+India,Uttar Pradesh,Sultanpur,2023,12
+India,Uttar Pradesh,Unnao,2023,12
+India,Uttar Pradesh,Varanasi,2023,12
+India,Uttaranchal,Almora,2023,12
+India,Uttaranchal,Bageshwar,2023,12
+India,Uttaranchal,Chamoli,2023,12
+India,Uttaranchal,Dehra Dun,2023,12
+India,Uttaranchal,Haridwar,2023,12
+India,Uttaranchal,Naini Tal,2023,12
+India,Uttaranchal,Pauri Garhwal,2023,12
+India,Uttaranchal,Pithoragarh,2023,12
+India,Uttaranchal,Rudra Prayag,2023,12
+India,Uttaranchal,Tehri Garhwal,2023,12
+India,Uttaranchal,Udham Singh Nagar,2023,12
+India,Uttaranchal,Uttarkashi,2023,12
+India,West Bengal,Bankura,2023,12
+India,West Bengal,Barddhaman,2023,12
+India,West Bengal,Birbhum,2023,12
+India,West Bengal,Dakshin Dinajpur,2023,12
+India,West Bengal,Darjiling,2023,12
+India,West Bengal,East Midnapore,2023,12
+India,West Bengal,Haora,2023,12
+India,West Bengal,Hugli,2023,12
+India,West Bengal,Jalpaiguri,2023,12
+India,West Bengal,Kochbihar,2023,12
+India,West Bengal,Kolkata,2023,12
+India,West Bengal,Maldah,2023,12
+India,West Bengal,Murshidabad,2023,12
+India,West Bengal,Nadia,2023,12
+India,West Bengal,North 24 Parganas,2023,12
+India,West Bengal,Puruliya,2023,12
+India,West Bengal,South 24 Parganas,2023,12
+India,West Bengal,Uttar Dinajpur,2023,12
+India,West Bengal,West Midnapore,2023,12

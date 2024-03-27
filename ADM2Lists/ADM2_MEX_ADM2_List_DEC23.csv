@@ -1,0 +1,768 @@
+country_iso_name,name_1,name_2,year,month
+Mexico,Aguascalientes,Aguascalientes,2023,12
+Mexico,Aguascalientes,Asientos,2023,12
+Mexico,Aguascalientes,Calvillo,2023,12
+Mexico,Aguascalientes,Cosío,2023,12
+Mexico,Aguascalientes,Jesús María,2023,12
+Mexico,Aguascalientes,Pabellón de Arteaga,2023,12
+Mexico,Aguascalientes,Rincón de Romos,2023,12
+Mexico,Baja California,Ensenada,2023,12
+Mexico,Baja California,Mexicali,2023,12
+Mexico,Baja California,Tecate,2023,12
+Mexico,Baja California,Tijuana,2023,12
+Mexico,Baja California Sur,Comondú,2023,12
+Mexico,Baja California Sur,La Paz,2023,12
+Mexico,Baja California Sur,Mulegé,2023,12
+Mexico,Campeche,Calkiní,2023,12
+Mexico,Campeche,Campeche,2023,12
+Mexico,Campeche,Carmen,2023,12
+Mexico,Campeche,Champotón,2023,12
+Mexico,Campeche,Hecelchakán,2023,12
+Mexico,Campeche,Hopelchén,2023,12
+Mexico,Campeche,Tenabo,2023,12
+Mexico,Chiapas,Acapetahua,2023,12
+Mexico,Chiapas,Amatenango de la Frontera,2023,12
+Mexico,Chiapas,Angel Albino Corzo,2023,12
+Mexico,Chiapas,Arriaga,2023,12
+Mexico,Chiapas,Bella Vista,2023,12
+Mexico,Chiapas,Berriozábal,2023,12
+Mexico,Chiapas,Cacahoatán,2023,12
+Mexico,Chiapas,Catazajá,2023,12
+Mexico,Chiapas,Chamula,2023,12
+Mexico,Chiapas,Chiapa de Corzo,2023,12
+Mexico,Chiapas,Comitán de Domínguez,2023,12
+Mexico,Chiapas,Escuintla,2023,12
+Mexico,Chiapas,Ixtacomitán,2023,12
+Mexico,Chiapas,La Trinitaria,2023,12
+Mexico,Chiapas,Las Margaritas,2023,12
+Mexico,Chiapas,Las Rosas,2023,12
+Mexico,Chiapas,Mapastepec,2023,12
+Mexico,Chiapas,Metapa,2023,12
+Mexico,Chiapas,Motozintla,2023,12
+Mexico,Chiapas,Ocosingo,2023,12
+Mexico,Chiapas,Palenque,2023,12
+Mexico,Chiapas,Pichucalco,2023,12
+Mexico,Chiapas,Reforma,2023,12
+Mexico,Chiapas,San Cristóbal de las Casas,2023,12
+Mexico,Chiapas,Socoltenango,2023,12
+Mexico,Chiapas,Tapachula,2023,12
+Mexico,Chiapas,Tapalapa,2023,12
+Mexico,Chiapas,Tonalá,2023,12
+Mexico,Chiapas,Tumbalá,2023,12
+Mexico,Chiapas,Tuxtla Gutiérrez,2023,12
+Mexico,Chiapas,Tuzantán,2023,12
+Mexico,Chiapas,Tzimol,2023,12
+Mexico,Chiapas,Villa Corzo,2023,12
+Mexico,Chiapas,Villaflores,2023,12
+Mexico,Chihuahua,Aldama,2023,12
+Mexico,Chihuahua,Allende,2023,12
+Mexico,Chihuahua,Aquiles Serdán,2023,12
+Mexico,Chihuahua,Balleza,2023,12
+Mexico,Chihuahua,Batopilas,2023,12
+Mexico,Chihuahua,Bocoyna,2023,12
+Mexico,Chihuahua,Buenaventura,2023,12
+Mexico,Chihuahua,Camargo,2023,12
+Mexico,Chihuahua,Casas Grandes,2023,12
+Mexico,Chihuahua,Chihuahua,2023,12
+Mexico,Chihuahua,Cuauhtémoc,2023,12
+Mexico,Chihuahua,Delicias,2023,12
+Mexico,Chihuahua,Gran Morelos,2023,12
+Mexico,Chihuahua,Guerrero,2023,12
+Mexico,Chihuahua,Ignacio Zaragoza,2023,12
+Mexico,Chihuahua,Julimes,2023,12
+Mexico,Chihuahua,Juárez,2023,12
+Mexico,Chihuahua,Matamoros,2023,12
+Mexico,Chihuahua,Meoqui,2023,12
+Mexico,Chihuahua,Ojinaga,2023,12
+Mexico,Chihuahua,Rosales,2023,12
+Mexico,Chihuahua,Santa Bárbara,2023,12
+Mexico,Chihuahua,Saucillo,2023,12
+Mexico,Coahuila,Acuña,2023,12
+Mexico,Coahuila,Allende,2023,12
+Mexico,Coahuila,Arteaga,2023,12
+Mexico,Coahuila,Cuatrociénegas,2023,12
+Mexico,Coahuila,Frontera,2023,12
+Mexico,Coahuila,Hidalgo,2023,12
+Mexico,Coahuila,Matamoros,2023,12
+Mexico,Coahuila,Monclova,2023,12
+Mexico,Coahuila,Múzquiz,2023,12
+Mexico,Coahuila,Nadadores,2023,12
+Mexico,Coahuila,Nava,2023,12
+Mexico,Coahuila,Parras,2023,12
+Mexico,Coahuila,Piedras Negras,2023,12
+Mexico,Coahuila,Progreso,2023,12
+Mexico,Coahuila,Ramos Arizpe,2023,12
+Mexico,Coahuila,Sabinas,2023,12
+Mexico,Coahuila,Saltillo,2023,12
+Mexico,Coahuila,San Pedro,2023,12
+Mexico,Coahuila,Sierra Mojada,2023,12
+Mexico,Coahuila,Torreón,2023,12
+Mexico,Coahuila,Viesca,2023,12
+Mexico,Colima,Armería,2023,12
+Mexico,Colima,Colima,2023,12
+Mexico,Colima,Comala,2023,12
+Mexico,Colima,Manzanillo,2023,12
+Mexico,Colima,Minatitlán,2023,12
+Mexico,Colima,Tecomán,2023,12
+Mexico,Colima,Villa de Alvarez,2023,12
+Mexico,Distrito Federal,Alvaro Obregón,2023,12
+Mexico,Distrito Federal,Azcapotzalco,2023,12
+Mexico,Distrito Federal,Benito Juárez,2023,12
+Mexico,Distrito Federal,Coyoacán,2023,12
+Mexico,Distrito Federal,Cuajimalpa de Morelos,2023,12
+Mexico,Distrito Federal,Cuauhtémoc,2023,12
+Mexico,Distrito Federal,Gustavo A. Madero,2023,12
+Mexico,Distrito Federal,Iztacalco,2023,12
+Mexico,Distrito Federal,Iztapalapa,2023,12
+Mexico,Distrito Federal,Magdalena Contreras,2023,12
+Mexico,Distrito Federal,Miguel Hidalgo,2023,12
+Mexico,Distrito Federal,Tlalpan,2023,12
+Mexico,Distrito Federal,Tláhuac,2023,12
+Mexico,Distrito Federal,Venustiano Carranza,2023,12
+Mexico,Distrito Federal,Xochimilco,2023,12
+Mexico,Durango,Canatlán,2023,12
+Mexico,Durango,Cuencamé,2023,12
+Mexico,Durango,Durango,2023,12
+Mexico,Durango,Guadalupe Victoria,2023,12
+Mexico,Durango,Gómez Palacio,2023,12
+Mexico,Durango,Poanas,2023,12
+Mexico,Durango,Pueblo Nuevo,2023,12
+Mexico,Durango,Santiago Papasquiaro,2023,12
+Mexico,Durango,Súchil,2023,12
+Mexico,Durango,Tepehuanes,2023,12
+Mexico,Durango,Vicente Guerrero,2023,12
+Mexico,Guanajuato,Abasolo,2023,12
+Mexico,Guanajuato,Acámbaro,2023,12
+Mexico,Guanajuato,Allende,2023,12
+Mexico,Guanajuato,Apaseo el Alto,2023,12
+Mexico,Guanajuato,Apaseo el Grande,2023,12
+Mexico,Guanajuato,Celaya,2023,12
+Mexico,Guanajuato,Cortazar,2023,12
+Mexico,Guanajuato,Cuerámaro,2023,12
+Mexico,Guanajuato,Doctor Mora,2023,12
+Mexico,Guanajuato,Dolores Hidalgo,2023,12
+Mexico,Guanajuato,Guanajuato,2023,12
+Mexico,Guanajuato,Irapuato,2023,12
+Mexico,Guanajuato,Jerécuaro,2023,12
+Mexico,Guanajuato,León,2023,12
+Mexico,Guanajuato,Manuel Doblado,2023,12
+Mexico,Guanajuato,Purísima del Rincón,2023,12
+Mexico,Guanajuato,Pénjamo,2023,12
+Mexico,Guanajuato,Romita,2023,12
+Mexico,Guanajuato,Salamanca,2023,12
+Mexico,Guanajuato,Salvatierra,2023,12
+Mexico,Guanajuato,San Felipe,2023,12
+Mexico,Guanajuato,San José Iturbide,2023,12
+Mexico,Guanajuato,San Luis de la Paz,2023,12
+Mexico,Guanajuato,Santa Catarina,2023,12
+Mexico,Guanajuato,Santa Cruz de Juventino Rosas,2023,12
+Mexico,Guanajuato,Silao,2023,12
+Mexico,Guanajuato,Tarimoro,2023,12
+Mexico,Guanajuato,Tierra Blanca,2023,12
+Mexico,Guanajuato,Uriangato,2023,12
+Mexico,Guanajuato,Valle de Santiago,2023,12
+Mexico,Guanajuato,Villagrán,2023,12
+Mexico,Guanajuato,Yuriria,2023,12
+Mexico,Guerrero,Acapulco de Juárez,2023,12
+Mexico,Guerrero,Ajuchitlán del Progreso,2023,12
+Mexico,Guerrero,Chilapa de Alvarez,2023,12
+Mexico,Guerrero,Chilpancingo de los Bravo,2023,12
+Mexico,Guerrero,Coyuca de Catalán,2023,12
+Mexico,Guerrero,Cuajinicuilapa,2023,12
+Mexico,Guerrero,Cuetzala del Progreso,2023,12
+Mexico,Guerrero,Cutzamala de Pinzón,2023,12
+Mexico,Guerrero,Eduardo Neri,2023,12
+Mexico,Guerrero,Huamuxtitlán,2023,12
+Mexico,Guerrero,Iguala de la Independencia,2023,12
+Mexico,Guerrero,José Azueta,2023,12
+Mexico,Guerrero,Leonardo Bravo,2023,12
+Mexico,Guerrero,Mochitlán,2023,12
+Mexico,Guerrero,Mártir de Cuilapan,2023,12
+Mexico,Guerrero,Pungarabato,2023,12
+Mexico,Guerrero,Quechultenango,2023,12
+Mexico,Guerrero,San Marcos,2023,12
+Mexico,Guerrero,Taxco de Alarcón,2023,12
+Mexico,Guerrero,Teloloapan,2023,12
+Mexico,Guerrero,Tepecoacuilco de Trujano,2023,12
+Mexico,Guerrero,Tixtla de Guerrero,2023,12
+Mexico,Guerrero,Tlapa de Comonfort,2023,12
+Mexico,Guerrero,Zitlala,2023,12
+Mexico,Hidalgo,Acatlán,2023,12
+Mexico,Hidalgo,Atlapexco,2023,12
+Mexico,Hidalgo,Atotonilco de Tula,2023,12
+Mexico,Hidalgo,Emiliano Zapata,2023,12
+Mexico,Hidalgo,Epazoyucan,2023,12
+Mexico,Hidalgo,Francisco I. Madero,2023,12
+Mexico,Hidalgo,Huejutla de Reyes,2023,12
+Mexico,Hidalgo,Huichapan,2023,12
+Mexico,Hidalgo,Ixmiquilpan,2023,12
+Mexico,Hidalgo,Metepec,2023,12
+Mexico,Hidalgo,Mineral del Monte,2023,12
+Mexico,Hidalgo,Mixquiahuala de Juárez,2023,12
+Mexico,Hidalgo,Omitlán de Juárez,2023,12
+Mexico,Hidalgo,Pachuca de Soto,2023,12
+Mexico,Hidalgo,San Agustín Tlaxiaca,2023,12
+Mexico,Hidalgo,San Felipe Orizatlán,2023,12
+Mexico,Hidalgo,San Salvador,2023,12
+Mexico,Hidalgo,Santiago Tulantepec de Lugo Guerrero,2023,12
+Mexico,Hidalgo,Santiago de Anaya,2023,12
+Mexico,Hidalgo,Tasquillo,2023,12
+Mexico,Hidalgo,Tecozautla,2023,12
+Mexico,Hidalgo,Tenango de Doria,2023,12
+Mexico,Hidalgo,Tepeji del Río de Ocampo,2023,12
+Mexico,Hidalgo,Tepetitlán,2023,12
+Mexico,Hidalgo,Tezontepec de Aldama,2023,12
+Mexico,Hidalgo,Tizayuca,2023,12
+Mexico,Hidalgo,Tlanalapa,2023,12
+Mexico,Hidalgo,Tolcayuca,2023,12
+Mexico,Hidalgo,Tula de Allende,2023,12
+Mexico,Hidalgo,Tulancingo de Bravo,2023,12
+Mexico,Hidalgo,Villa de Tezontepec,2023,12
+Mexico,Hidalgo,Zempoala,2023,12
+Mexico,Hidalgo,Zimapán,2023,12
+Mexico,Jalisco,Acatlán de Juárez,2023,12
+Mexico,Jalisco,Amatitán,2023,12
+Mexico,Jalisco,Ameca,2023,12
+Mexico,Jalisco,Arandas,2023,12
+Mexico,Jalisco,Atengo,2023,12
+Mexico,Jalisco,Atotonilco El Alto,2023,12
+Mexico,Jalisco,Autlán de Navarro,2023,12
+Mexico,Jalisco,Ayotlán,2023,12
+Mexico,Jalisco,Cabo Corrientes,2023,12
+Mexico,Jalisco,Casimiro Castillo,2023,12
+Mexico,Jalisco,Chapala,2023,12
+Mexico,Jalisco,Cihuatlán,2023,12
+Mexico,Jalisco,Ciudad Guzman,2023,12
+Mexico,Jalisco,Colotlán,2023,12
+Mexico,Jalisco,Cuautitlán de García Barragán,2023,12
+Mexico,Jalisco,Cuquito,2023,12
+Mexico,Jalisco,Degollado,2023,12
+Mexico,Jalisco,El Arenal,2023,12
+Mexico,Jalisco,El Salto,2023,12
+Mexico,Jalisco,Encarnación de Díaz,2023,12
+Mexico,Jalisco,Etzatlán,2023,12
+Mexico,Jalisco,Guadalajara,2023,12
+Mexico,Jalisco,Hostotipaquillo,2023,12
+Mexico,Jalisco,Ixtlahuacán de los Membrillos,2023,12
+Mexico,Jalisco,Ixtlahuacán del Río,2023,12
+Mexico,Jalisco,Jilotlán de los Dolores,2023,12
+Mexico,Jalisco,Jocotepec,2023,12
+Mexico,Jalisco,Juanacatlán,2023,12
+Mexico,Jalisco,La Barca,2023,12
+Mexico,Jalisco,La Huerta,2023,12
+Mexico,Jalisco,Lagos de Moreno,2023,12
+Mexico,Jalisco,Mascota,2023,12
+Mexico,Jalisco,Ocotlán,2023,12
+Mexico,Jalisco,Puerto Vallarta,2023,12
+Mexico,Jalisco,San Diego de Alejandría,2023,12
+Mexico,Jalisco,San Juan de los Lagos,2023,12
+Mexico,Jalisco,San Miguel el Alto,2023,12
+Mexico,Jalisco,Santa María de los Angeles,2023,12
+Mexico,Jalisco,Sayula,2023,12
+Mexico,Jalisco,Tala,2023,12
+Mexico,Jalisco,Tamazula de Gordiano,2023,12
+Mexico,Jalisco,Tecolotlán,2023,12
+Mexico,Jalisco,Tenamaxtlán,2023,12
+Mexico,Jalisco,Teocaltiche,2023,12
+Mexico,Jalisco,Tepatitlán de Morelos,2023,12
+Mexico,Jalisco,Tequila,2023,12
+Mexico,Jalisco,Tlajomulco de Zúñiga,2023,12
+Mexico,Jalisco,Tlaquepaque,2023,12
+Mexico,Jalisco,Tonalá,2023,12
+Mexico,Jalisco,Totatiche,2023,12
+Mexico,Jalisco,Tototlán,2023,12
+Mexico,Jalisco,Tuxcueca,2023,12
+Mexico,Jalisco,Tuxpan,2023,12
+Mexico,Jalisco,Unión de Tula,2023,12
+Mexico,Jalisco,Villa Hidalgo,2023,12
+Mexico,Jalisco,Yahualica de González Gallo,2023,12
+Mexico,Jalisco,Zacoalco de Torres,2023,12
+Mexico,Jalisco,Zapopan,2023,12
+Mexico,Jalisco,Zapotiltic,2023,12
+Mexico,Jalisco,Zapotlanejo,2023,12
+Mexico,Jalisco,Zapotlán del Rey,2023,12
+Mexico,Michoacán,Apatzingán,2023,12
+Mexico,Michoacán,Ario,2023,12
+Mexico,Michoacán,Arteaga,2023,12
+Mexico,Michoacán,Buenavista,2023,12
+Mexico,Michoacán,Cherán,2023,12
+Mexico,Michoacán,Chilchota,2023,12
+Mexico,Michoacán,Coahuayana,2023,12
+Mexico,Michoacán,Coalcomán de Vázquez Pallares,2023,12
+Mexico,Michoacán,Coeneo,2023,12
+Mexico,Michoacán,Cotija,2023,12
+Mexico,Michoacán,Erongarícuaro,2023,12
+Mexico,Michoacán,Gabriel Zamora,2023,12
+Mexico,Michoacán,Hidalgo,2023,12
+Mexico,Michoacán,Huaniqueo,2023,12
+Mexico,Michoacán,Huetamo,2023,12
+Mexico,Michoacán,Indoparapeo,2023,12
+Mexico,Michoacán,Irimbo,2023,12
+Mexico,Michoacán,Ixtlán,2023,12
+Mexico,Michoacán,Jacona,2023,12
+Mexico,Michoacán,Jiquilpan,2023,12
+Mexico,Michoacán,La Huacana,2023,12
+Mexico,Michoacán,Los Reyes,2023,12
+Mexico,Michoacán,Lázaro Cárdenas,2023,12
+Mexico,Michoacán,Maravatío,2023,12
+Mexico,Michoacán,Morelia,2023,12
+Mexico,Michoacán,Múgica,2023,12
+Mexico,Michoacán,Nuevo Paranguricutiro,2023,12
+Mexico,Michoacán,Nuevo Urecho,2023,12
+Mexico,Michoacán,Peribán,2023,12
+Mexico,Michoacán,Puruándiro,2023,12
+Mexico,Michoacán,Pátzcuaro,2023,12
+Mexico,Michoacán,Salvador Escalante,2023,12
+Mexico,Michoacán,Tacámbaro,2023,12
+Mexico,Michoacán,Taretan,2023,12
+Mexico,Michoacán,Tarímbaro,2023,12
+Mexico,Michoacán,Tepalcatepec,2023,12
+Mexico,Michoacán,Tlalpujahua,2023,12
+Mexico,Michoacán,Uruapan,2023,12
+Mexico,Michoacán,Venustiano Carranza,2023,12
+Mexico,Michoacán,Zacapu,2023,12
+Mexico,Michoacán,Zamora,2023,12
+Mexico,Michoacán,Zinapécuaro,2023,12
+Mexico,Michoacán,Zitácuaro,2023,12
+Mexico,Michoacán,Álvaro Obregón,2023,12
+Mexico,Morelos,Amacuzac,2023,12
+Mexico,Morelos,Atlatlahucan,2023,12
+Mexico,Morelos,Ayala,2023,12
+Mexico,Morelos,Cuautla,2023,12
+Mexico,Morelos,Cuernavaca,2023,12
+Mexico,Morelos,Huitzilac,2023,12
+Mexico,Morelos,Jiutepec,2023,12
+Mexico,Morelos,Jojutla,2023,12
+Mexico,Morelos,Jonacatepec,2023,12
+Mexico,Morelos,Miacatlán,2023,12
+Mexico,Morelos,Puente de Ixtla,2023,12
+Mexico,Morelos,Temixco,2023,12
+Mexico,Morelos,Tepoztlán,2023,12
+Mexico,Morelos,Tetecala,2023,12
+Mexico,Morelos,Tlalnepantla,2023,12
+Mexico,Morelos,Tlayacapan,2023,12
+Mexico,Morelos,Xochitepec,2023,12
+Mexico,Morelos,Yautepec,2023,12
+Mexico,México,Acolman,2023,12
+Mexico,México,Almoloya de Juárez,2023,12
+Mexico,México,Atenco,2023,12
+Mexico,México,Atizapán de Zaragoza,2023,12
+Mexico,México,Atlacomulco,2023,12
+Mexico,México,Axapusco,2023,12
+Mexico,México,Calimaya,2023,12
+Mexico,México,Chalco,2023,12
+Mexico,México,Chapa de Mota,2023,12
+Mexico,México,Chiautla,2023,12
+Mexico,México,Coacalco de Berriozábal,2023,12
+Mexico,México,Coatepec Harinas,2023,12
+Mexico,México,Cocotitlán,2023,12
+Mexico,México,Coyotepec,2023,12
+Mexico,México,Cuautitlán,2023,12
+Mexico,México,Cuautitlán Izcalli,2023,12
+Mexico,México,Ecatepec de Morelos,2023,12
+Mexico,México,El Oro,2023,12
+Mexico,México,Huehuetoca,2023,12
+Mexico,México,Hueypoxtla,2023,12
+Mexico,México,Huixquilucan,2023,12
+Mexico,México,Isidro Fabela,2023,12
+Mexico,México,Ixtapaluca,2023,12
+Mexico,México,Ixtlahuaca,2023,12
+Mexico,México,Jaltenco,2023,12
+Mexico,México,Jilotepec,2023,12
+Mexico,México,Jilotzingo,2023,12
+Mexico,México,Jiquipilco,2023,12
+Mexico,México,Jocotitlán,2023,12
+Mexico,México,La Paz,2023,12
+Mexico,México,Lerma,2023,12
+Mexico,México,Melchor Ocampo,2023,12
+Mexico,México,Metepec,2023,12
+Mexico,México,Naucalpan de Juárez,2023,12
+Mexico,México,Nezahualcóyotl,2023,12
+Mexico,México,Nicolás Romero,2023,12
+Mexico,México,Otzoloapan,2023,12
+Mexico,México,Otzolotepec,2023,12
+Mexico,México,Papalotla,2023,12
+Mexico,México,Polotitlán,2023,12
+Mexico,México,San Felipe del Progreso,2023,12
+Mexico,México,San Martín de las Piráámides,2023,12
+Mexico,México,San Mateo Atenco,2023,12
+Mexico,México,Tecámac,2023,12
+Mexico,México,Tejupilco,2023,12
+Mexico,México,Temascalapa,2023,12
+Mexico,México,Temascalcingo,2023,12
+Mexico,México,Temascaltepec,2023,12
+Mexico,México,Temoaya,2023,12
+Mexico,México,Tenango del Aire,2023,12
+Mexico,México,Tenango del Valle,2023,12
+Mexico,México,Teoloyucán,2023,12
+Mexico,México,Teotihuacán,2023,12
+Mexico,México,Tepetlaoxtoc,2023,12
+Mexico,México,Tepotzotlán,2023,12
+Mexico,México,Tequixquiac,2023,12
+Mexico,México,Texcoco,2023,12
+Mexico,México,Tezoyuca,2023,12
+Mexico,México,Tianguistenco,2023,12
+Mexico,México,Tlalmanalco,2023,12
+Mexico,México,Tlalnepantla,2023,12
+Mexico,México,Toluca,2023,12
+Mexico,México,Tultepec,2023,12
+Mexico,México,Tultitlán,2023,12
+Mexico,México,Valle de Bravo,2023,12
+Mexico,México,Villa Guerrero,2023,12
+Mexico,México,Villa Victoria,2023,12
+Mexico,México,Villa del Carbón,2023,12
+Mexico,México,Xonacatlán,2023,12
+Mexico,México,Zinacatepec,2023,12
+Mexico,México,Zumpahuacan,2023,12
+Mexico,México,Zumpango,2023,12
+Mexico,Nayarit,Acaponeta,2023,12
+Mexico,Nayarit,Ahuacatlán,2023,12
+Mexico,Nayarit,Amatlán de Cañas,2023,12
+Mexico,Nayarit,Compostela,2023,12
+Mexico,Nayarit,El Nayar,2023,12
+Mexico,Nayarit,Jala,2023,12
+Mexico,Nayarit,Rosamorada,2023,12
+Mexico,Nayarit,San Blas,2023,12
+Mexico,Nayarit,San Pedro Lagunillas,2023,12
+Mexico,Nayarit,Santiago Ixcuintla,2023,12
+Mexico,Nayarit,Tecuala,2023,12
+Mexico,Nayarit,Tepic,2023,12
+Mexico,Nayarit,Tuxpan,2023,12
+Mexico,Nuevo León,Anáhuac,2023,12
+Mexico,Nuevo León,Apodaca,2023,12
+Mexico,Nuevo León,Aramberri,2023,12
+Mexico,Nuevo León,Cadereyta Jiménez,2023,12
+Mexico,Nuevo León,Carmen,2023,12
+Mexico,Nuevo León,Cerralvo,2023,12
+Mexico,Nuevo León,China,2023,12
+Mexico,Nuevo León,Ciénega de Flores,2023,12
+Mexico,Nuevo León,Doctor Arroyo,2023,12
+Mexico,Nuevo León,Galeana,2023,12
+Mexico,Nuevo León,García,2023,12
+Mexico,Nuevo León,General Escobedo,2023,12
+Mexico,Nuevo León,General Zuazua,2023,12
+Mexico,Nuevo León,Guadalupe,2023,12
+Mexico,Nuevo León,Hidalgo,2023,12
+Mexico,Nuevo León,Juárez,2023,12
+Mexico,Nuevo León,Linares,2023,12
+Mexico,Nuevo León,Montemorelos,2023,12
+Mexico,Nuevo León,Monterrey,2023,12
+Mexico,Nuevo León,Pesquería,2023,12
+Mexico,Nuevo León,Sabinas Hidalgo,2023,12
+Mexico,Nuevo León,Salinas Victoria,2023,12
+Mexico,Nuevo León,San Nicolás de los Garza,2023,12
+Mexico,Nuevo León,San Pedro Garza García,2023,12
+Mexico,Nuevo León,Santa Catarina,2023,12
+Mexico,Nuevo León,Santiago,2023,12
+Mexico,Oaxaca,Cuicatlan,2023,12
+Mexico,Oaxaca,Del Centro,2023,12
+Mexico,Oaxaca,Dist. Ejutla,2023,12
+Mexico,Oaxaca,Dist. Etla,2023,12
+Mexico,Oaxaca,Dist. Huajuapam,2023,12
+Mexico,Oaxaca,Dist. Jamiltepec,2023,12
+Mexico,Oaxaca,Dist. Juchitan,2023,12
+Mexico,Oaxaca,Dist. Juquila,2023,12
+Mexico,Oaxaca,Dist. Juxtlahuaca,2023,12
+Mexico,Oaxaca,Dist. Miahuatlan,2023,12
+Mexico,Oaxaca,Dist. Nochixtlan,2023,12
+Mexico,Oaxaca,Dist. Ocotlan,2023,12
+Mexico,Oaxaca,Dist. Pochutla,2023,12
+Mexico,Oaxaca,Dist. Putla,2023,12
+Mexico,Oaxaca,Dist. Tehuantepec,2023,12
+Mexico,Oaxaca,Dist. Tlacolula,2023,12
+Mexico,Oaxaca,Dist. Tuxtepec,2023,12
+Mexico,Oaxaca,Dist. Villa Alta,2023,12
+Mexico,Oaxaca,Dist. Zimatlan,2023,12
+Mexico,Puebla,Ahuazotepec,2023,12
+Mexico,Puebla,Ahuehuetitla,2023,12
+Mexico,Puebla,Albino Zertuche,2023,12
+Mexico,Puebla,Aquixtla,2023,12
+Mexico,Puebla,Atempan,2023,12
+Mexico,Puebla,Atlixco,2023,12
+Mexico,Puebla,Atzala,2023,12
+Mexico,Puebla,Calpan,2023,12
+Mexico,Puebla,Cañada Morelos,2023,12
+Mexico,Puebla,Chignahuapan,2023,12
+Mexico,Puebla,Chignautla,2023,12
+Mexico,Puebla,Coronango,2023,12
+Mexico,Puebla,Cuapiaxtla de Madero,2023,12
+Mexico,Puebla,Cuautinchán,2023,12
+Mexico,Puebla,Cuautlancingo,2023,12
+Mexico,Puebla,Esperanza,2023,12
+Mexico,Puebla,Huauchinango,2023,12
+Mexico,Puebla,Huehuetlán el Chico,2023,12
+Mexico,Puebla,Huejotzingo,2023,12
+Mexico,Puebla,Huitzilan de Serdán,2023,12
+Mexico,Puebla,Juan C. Bonilla,2023,12
+Mexico,Puebla,Juan N. Méndez,2023,12
+Mexico,Puebla,Los Reyes de Juárez,2023,12
+Mexico,Puebla,Mixtla,2023,12
+Mexico,Puebla,Naupan,2023,12
+Mexico,Puebla,Nopalucan,2023,12
+Mexico,Puebla,Ocoyucan,2023,12
+Mexico,Puebla,Olintla,2023,12
+Mexico,Puebla,Puebla,2023,12
+Mexico,Puebla,Quecholac,2023,12
+Mexico,Puebla,San Andrés Cholula,2023,12
+Mexico,Puebla,San Felipe Teotlalcingo,2023,12
+Mexico,Puebla,San Gregorio Atzompa,2023,12
+Mexico,Puebla,San Jerónimo Tecuanipan,2023,12
+Mexico,Puebla,San José Chiapa,2023,12
+Mexico,Puebla,San Martín Texmelucan,2023,12
+Mexico,Puebla,San Pedro Cholula,2023,12
+Mexico,Puebla,San Salvador el Verde,2023,12
+Mexico,Puebla,Santa Isabel Cholula,2023,12
+Mexico,Puebla,Tecali de Herrera,2023,12
+Mexico,Puebla,Tehuacán,2023,12
+Mexico,Puebla,Tehuitzingo,2023,12
+Mexico,Puebla,Tepexi de Rodríguez,2023,12
+Mexico,Puebla,Teziutlán,2023,12
+Mexico,Puebla,Tianguismanalco,2023,12
+Mexico,Puebla,Tilapa,2023,12
+Mexico,Puebla,Tlahuapan,2023,12
+Mexico,Puebla,Tlatlauquitepec,2023,12
+Mexico,Puebla,Tzicatlacoyan,2023,12
+Mexico,Puebla,Vicente Guerrero,2023,12
+Mexico,Puebla,Xicotepec,2023,12
+Mexico,Puebla,Xochiapulco,2023,12
+Mexico,Puebla,Zacatlán,2023,12
+Mexico,Puebla,Zapotitlán,2023,12
+Mexico,Puebla,Zaragoza,2023,12
+Mexico,Querétaro,Amealco de Bonfin,2023,12
+Mexico,Querétaro,Colón,2023,12
+Mexico,Querétaro,Corregidora,2023,12
+Mexico,Querétaro,El Marqués,2023,12
+Mexico,Querétaro,Huimilpan,2023,12
+Mexico,Querétaro,Landa de Matamoros,2023,12
+Mexico,Querétaro,Pedro Escobedo,2023,12
+Mexico,Querétaro,Querétaro,2023,12
+Mexico,Querétaro,San Juan del Río,2023,12
+Mexico,Querétaro,Tequisquiapan,2023,12
+Mexico,Quintana Roo,Benito Juárez,2023,12
+Mexico,Quintana Roo,Cozumel,2023,12
+Mexico,Quintana Roo,Felipe Carrillo Puerto,2023,12
+Mexico,Quintana Roo,Isla Mujeres,2023,12
+Mexico,Quintana Roo,José María Morelos,2023,12
+Mexico,Quintana Roo,Lázaro Cárdenas,2023,12
+Mexico,Quintana Roo,Othón P. Blanco,2023,12
+Mexico,San Luis Potosí,Alaquines,2023,12
+Mexico,San Luis Potosí,Ciudad Valles,2023,12
+Mexico,San Luis Potosí,Ciudad del Maíz,2023,12
+Mexico,San Luis Potosí,Cárdenas,2023,12
+Mexico,San Luis Potosí,Matehuala,2023,12
+Mexico,San Luis Potosí,Mexquitic de Carmona,2023,12
+Mexico,San Luis Potosí,Moctezuma,2023,12
+Mexico,San Luis Potosí,Rioverde,2023,12
+Mexico,San Luis Potosí,Salinas,2023,12
+Mexico,San Luis Potosí,San Luis Potosí,2023,12
+Mexico,San Luis Potosí,Santa María del Río,2023,12
+Mexico,San Luis Potosí,Soledad de Graciano Sánchez,2023,12
+Mexico,San Luis Potosí,Tamazunchale,2023,12
+Mexico,San Luis Potosí,Tamuín,2023,12
+Mexico,San Luis Potosí,Villa Hidalgo,2023,12
+Mexico,San Luis Potosí,Villa Juárez,2023,12
+Mexico,San Luis Potosí,Villa de Ramos,2023,12
+Mexico,San Luis Potosí,Zaragoza,2023,12
+Mexico,Sinaloa,Ahome,2023,12
+Mexico,Sinaloa,Badiraguato,2023,12
+Mexico,Sinaloa,Culiacán,2023,12
+Mexico,Sinaloa,El Fuerte,2023,12
+Mexico,Sinaloa,Elota,2023,12
+Mexico,Sinaloa,Escuinapa,2023,12
+Mexico,Sinaloa,Guasave,2023,12
+Mexico,Sinaloa,Mazatlán,2023,12
+Mexico,Sinaloa,Salvador Alvarado,2023,12
+Mexico,Sonora,Agua Prieta,2023,12
+Mexico,Sonora,Arizpe,2023,12
+Mexico,Sonora,Bavispe,2023,12
+Mexico,Sonora,Bácum,2023,12
+Mexico,Sonora,Caborca,2023,12
+Mexico,Sonora,Cajeme,2023,12
+Mexico,Sonora,Cananea,2023,12
+Mexico,Sonora,Fronteras,2023,12
+Mexico,Sonora,Guaymas,2023,12
+Mexico,Sonora,Hermosillo,2023,12
+Mexico,Sonora,Huatabampo,2023,12
+Mexico,Sonora,Magdalena,2023,12
+Mexico,Sonora,Naco,2023,12
+Mexico,Sonora,Nacozari de García,2023,12
+Mexico,Sonora,Navojoa,2023,12
+Mexico,Sonora,Nogales,2023,12
+Mexico,Sonora,Puerto Peñasco,2023,12
+Mexico,Sonora,San Luis Río Colorado,2023,12
+Mexico,Sonora,Santa Ana,2023,12
+Mexico,Sonora,Álamos,2023,12
+Mexico,Tabasco,Centla,2023,12
+Mexico,Tabasco,Centro,2023,12
+Mexico,Tabasco,Comalcalco,2023,12
+Mexico,Tabasco,Cunduacán,2023,12
+Mexico,Tabasco,Cárdenas,2023,12
+Mexico,Tabasco,Huimanguillo,2023,12
+Mexico,Tabasco,Jalapa,2023,12
+Mexico,Tabasco,Jalpa de Méndez,2023,12
+Mexico,Tabasco,Macuspana,2023,12
+Mexico,Tabasco,Nacajuca,2023,12
+Mexico,Tabasco,Paraíso,2023,12
+Mexico,Tabasco,Tacotalpa,2023,12
+Mexico,Tabasco,Teapa,2023,12
+Mexico,Tabasco,Tenosique,2023,12
+Mexico,Tamaulipas,Altamira,2023,12
+Mexico,Tamaulipas,Ciudad Madero,2023,12
+Mexico,Tamaulipas,El Mante,2023,12
+Mexico,Tamaulipas,Jiménez,2023,12
+Mexico,Tamaulipas,Matamoros,2023,12
+Mexico,Tamaulipas,Mier,2023,12
+Mexico,Tamaulipas,Miquihuana,2023,12
+Mexico,Tamaulipas,Nuevo Laredo,2023,12
+Mexico,Tamaulipas,Reynosa,2023,12
+Mexico,Tamaulipas,Río Bravo,2023,12
+Mexico,Tamaulipas,San Fernando,2023,12
+Mexico,Tamaulipas,Tampico,2023,12
+Mexico,Tamaulipas,Tula,2023,12
+Mexico,Tamaulipas,Valle Hermoso,2023,12
+Mexico,Tamaulipas,Victoria,2023,12
+Mexico,Tamaulipas,Xicoténcatl,2023,12
+Mexico,Tlaxcala,Altzayanca,2023,12
+Mexico,Tlaxcala,Calpulalpan,2023,12
+Mexico,Tlaxcala,Chiautempan,2023,12
+Mexico,Tlaxcala,Contla de Juan Cuamatzi,2023,12
+Mexico,Tlaxcala,Huamantla,2023,12
+Mexico,Tlaxcala,Ixtacuixtla de Mariano Matamoros,2023,12
+Mexico,Tlaxcala,Natívitas,2023,12
+Mexico,Tlaxcala,Panotla,2023,12
+Mexico,Tlaxcala,Tepetitla de Lardizábal,2023,12
+Mexico,Tlaxcala,Tepeyanco,2023,12
+Mexico,Tlaxcala,Tetla de la Solidaridad,2023,12
+Mexico,Tlaxcala,Tetlatlahuca,2023,12
+Mexico,Tlaxcala,Tlaxcala,2023,12
+Mexico,Tlaxcala,Tlaxco,2023,12
+Mexico,Tlaxcala,Tzompantepec,2023,12
+Mexico,Tlaxcala,Xaltocan,2023,12
+Mexico,Veracruz,Acayucan,2023,12
+Mexico,Veracruz,Actopan,2023,12
+Mexico,Veracruz,Acultzingo,2023,12
+Mexico,Veracruz,Alpatláhuac,2023,12
+Mexico,Veracruz,Altotonga,2023,12
+Mexico,Veracruz,Alvarado,2023,12
+Mexico,Veracruz,Amatlan Tuxpan,2023,12
+Mexico,Veracruz,Atzacan,2023,12
+Mexico,Veracruz,Boca del Río,2023,12
+Mexico,Veracruz,Catemaco,2023,12
+Mexico,Veracruz,Cazones de Herrera,2023,12
+Mexico,Veracruz,Cerro Azul,2023,12
+Mexico,Veracruz,Chalma,2023,12
+Mexico,Veracruz,Chicontepec,2023,12
+Mexico,Veracruz,Chinampa de Gorostiza,2023,12
+Mexico,Veracruz,Coatepec,2023,12
+Mexico,Veracruz,Coatzacoalcos,2023,12
+Mexico,Veracruz,Coatzintla,2023,12
+Mexico,Veracruz,Cosamaloapan,2023,12
+Mexico,Veracruz,Coscomatepec,2023,12
+Mexico,Veracruz,Cosoleacaque,2023,12
+Mexico,Veracruz,Cotaxtla,2023,12
+Mexico,Veracruz,Cuitláhuac,2023,12
+Mexico,Veracruz,Emiliano Zapata,2023,12
+Mexico,Veracruz,Espinal,2023,12
+Mexico,Veracruz,Fortín,2023,12
+Mexico,Veracruz,Gutiérrez Zamora,2023,12
+Mexico,Veracruz,Huayacocotla,2023,12
+Mexico,Veracruz,Hueyapan de Ocampo,2023,12
+Mexico,Veracruz,Ignacio de la Llave,2023,12
+Mexico,Veracruz,Ixhuacán de los Reyes,2023,12
+Mexico,Veracruz,Ixhuatlancillo,2023,12
+Mexico,Veracruz,Ixhuatlán del Sureste,2023,12
+Mexico,Veracruz,Ixtaczoquitlán,2023,12
+Mexico,Veracruz,Jalancingo,2023,12
+Mexico,Veracruz,Jamapa,2023,12
+Mexico,Veracruz,Juan Rodríguez Clara,2023,12
+Mexico,Veracruz,Las Choapas,2023,12
+Mexico,Veracruz,Lerdo de Tejada,2023,12
+Mexico,Veracruz,Manlio Fabio Altamirano,2023,12
+Mexico,Veracruz,Mariano Escobedo,2023,12
+Mexico,Veracruz,Mecatlán,2023,12
+Mexico,Veracruz,Medellín,2023,12
+Mexico,Veracruz,Minatitlán,2023,12
+Mexico,Veracruz,Misantla,2023,12
+Mexico,Veracruz,Nogales,2023,12
+Mexico,Veracruz,Oluta,2023,12
+Mexico,Veracruz,Orizaba,2023,12
+Mexico,Veracruz,Ozuluama,2023,12
+Mexico,Veracruz,Pajapan,2023,12
+Mexico,Veracruz,Papantla,2023,12
+Mexico,Veracruz,Perote,2023,12
+Mexico,Veracruz,Poza Rica de Hidalgo,2023,12
+Mexico,Veracruz,Pueblo Viejo,2023,12
+Mexico,Veracruz,Pánuco,2023,12
+Mexico,Veracruz,Río Blanco,2023,12
+Mexico,Veracruz,San Andrés Tuxtla,2023,12
+Mexico,Veracruz,Sayula de Alemán,2023,12
+Mexico,Veracruz,Soteapan,2023,12
+Mexico,Veracruz,Tamiahua,2023,12
+Mexico,Veracruz,Tancoco,2023,12
+Mexico,Veracruz,Tantima,2023,12
+Mexico,Veracruz,Tantoyuca,2023,12
+Mexico,Veracruz,Tecolutla,2023,12
+Mexico,Veracruz,Temapache,2023,12
+Mexico,Veracruz,Tezonapa,2023,12
+Mexico,Veracruz,Tierra Blanca,2023,12
+Mexico,Veracruz,Tihuatlán,2023,12
+Mexico,Veracruz,Tlalixcoyan,2023,12
+Mexico,Veracruz,Tlalnelhuayocan,2023,12
+Mexico,Veracruz,Tlapacoyan,2023,12
+Mexico,Veracruz,Tuxpan,2023,12
+Mexico,Veracruz,Tuxtilla,2023,12
+Mexico,Veracruz,Veracruz,2023,12
+Mexico,Veracruz,Xalapa,2023,12
+Mexico,Veracruz,Xico,2023,12
+Mexico,Veracruz,Zongolica,2023,12
+Mexico,Yucatán,Acanceh,2023,12
+Mexico,Yucatán,Baca,2023,12
+Mexico,Yucatán,Chemax,2023,12
+Mexico,Yucatán,Chicxulub Pueblo,2023,12
+Mexico,Yucatán,Conkal,2023,12
+Mexico,Yucatán,Dzidzantún,2023,12
+Mexico,Yucatán,Halachó,2023,12
+Mexico,Yucatán,Hunucmá,2023,12
+Mexico,Yucatán,Ixil,2023,12
+Mexico,Yucatán,Izamal,2023,12
+Mexico,Yucatán,Kanasín,2023,12
+Mexico,Yucatán,Maxcanú,2023,12
+Mexico,Yucatán,Motul,2023,12
+Mexico,Yucatán,Mérida,2023,12
+Mexico,Yucatán,Opichén,2023,12
+Mexico,Yucatán,Peto,2023,12
+Mexico,Yucatán,Progreso,2023,12
+Mexico,Yucatán,Samahil,2023,12
+Mexico,Yucatán,Seyé,2023,12
+Mexico,Yucatán,Tahmek,2023,12
+Mexico,Yucatán,Tecoh,2023,12
+Mexico,Yucatán,Tekal de Venegas,2023,12
+Mexico,Yucatán,Tekax,2023,12
+Mexico,Yucatán,Tetiz,2023,12
+Mexico,Yucatán,Ticul,2023,12
+Mexico,Yucatán,Tinúm,2023,12
+Mexico,Yucatán,Tixkokob,2023,12
+Mexico,Yucatán,Tixpéhual,2023,12
+Mexico,Yucatán,Tizimín,2023,12
+Mexico,Yucatán,Tzucacab,2023,12
+Mexico,Yucatán,Uayma,2023,12
+Mexico,Yucatán,Umán,2023,12
+Mexico,Yucatán,Valladolid,2023,12
+Mexico,Zacatecas,Calera,2023,12
+Mexico,Zacatecas,Fresnillo,2023,12
+Mexico,Zacatecas,General Francisco R. Murguía,2023,12
+Mexico,Zacatecas,Guadalupe,2023,12
+Mexico,Zacatecas,Jerez,2023,12
+Mexico,Zacatecas,Juan Aldama,2023,12
+Mexico,Zacatecas,Loreto,2023,12
+Mexico,Zacatecas,Mazapil,2023,12
+Mexico,Zacatecas,Nochistlán de Mejía,2023,12
+Mexico,Zacatecas,Pinos,2023,12
+Mexico,Zacatecas,Pánuco,2023,12
+Mexico,Zacatecas,Río Grande,2023,12
+Mexico,Zacatecas,Saín Alto,2023,12
+Mexico,Zacatecas,Sombrerete,2023,12
+Mexico,Zacatecas,Vetagrande,2023,12
+Mexico,Zacatecas,Villa de Cos,2023,12
+Mexico,Zacatecas,Villanueva,2023,12
+Mexico,Zacatecas,Zacatecas,2023,12

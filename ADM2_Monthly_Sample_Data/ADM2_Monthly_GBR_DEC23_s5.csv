@@ -1,0 +1,11 @@
+country_iso_name,name_1,name_2,country_iso_three_char_code,adm1id,adm2id,year,month,rtt_var_norm,rtt_mean_norm,connectivity_out_2sd,latency_out_3sd,rtt_d,rtt_dp
+United Kingdom,Wales,Cardiff,GBR,GBR-4,GBR-4-175,2023,12,3722.8064,213.6129,0,0,13.6129,6.3726954
+United Kingdom,England,Stockton-on-Tees,GBR,GBR-1,GBR-1-91,2023,12,4668.5483,215.6129,0,2,15.6129,7.2411714
+United Kingdom,Scotland,East Dunbartonshire,GBR,GBR-3,GBR-3-147,2023,12,4460.645,215.74193,0,0,15.741928,7.2966475
+United Kingdom,England,Harrow,GBR,GBR-1,GBR-1-37,2023,12,3459.1614,214.96774,0,0,14.967743,6.9627857
+United Kingdom,England,Hertfordshire,GBR,GBR-1,GBR-1-41,2023,12,3752.8064,218.87097,0,0,18.870972,8.6219616
+United Kingdom,England,Islington,GBR,GBR-1,GBR-1-45,2023,12,3613.6128,215.45161,0,0,15.451614,7.1717329
+United Kingdom,England,Herefordshire,GBR,GBR-1,GBR-1-40,2023,12,2741.7419,207,0,0,7,3.3816426
+United Kingdom,England,Wiltshire,GBR,GBR-1,GBR-1-110,2023,12,3723.6128,212.83871,0,0,12.838715,6.0321331
+United Kingdom,England,Devon,GBR,GBR-1,GBR-1-22,2023,12,9964.5166,224.54839,0,0,24.548386,10.932337
+United Kingdom,Northern Ireland,Fermanagh,GBR,GBR-2,GBR-2-128,2023,12,5502.2256,217.32259,0,0,17.322586,7.9709091

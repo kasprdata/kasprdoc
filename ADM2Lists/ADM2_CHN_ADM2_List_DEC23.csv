@@ -1,0 +1,330 @@
+country_iso_name,name_1,name_2,year,month
+China,Anhui,Anqing,2023,12
+China,Anhui,Bengbu,2023,12
+China,Anhui,Bozhou,2023,12
+China,Anhui,Chaohu,2023,12
+China,Anhui,Chizhou,2023,12
+China,Anhui,Chuzhou,2023,12
+China,Anhui,Fuyang,2023,12
+China,Anhui,Hefei,2023,12
+China,Anhui,Huaibei,2023,12
+China,Anhui,Huainan,2023,12
+China,Anhui,Huangshan,2023,12
+China,Anhui,Lu'an,2023,12
+China,Anhui,Ma'anshan,2023,12
+China,Anhui,Suzhou,2023,12
+China,Anhui,Tongling,2023,12
+China,Anhui,Wuhu,2023,12
+China,Anhui,Xuancheng,2023,12
+China,Beijing,Beijing,2023,12
+China,Chongqing,Chongqing,2023,12
+China,Fujian,Fuzhou,2023,12
+China,Fujian,Longyan,2023,12
+China,Fujian,Nanping,2023,12
+China,Fujian,Ningde,2023,12
+China,Fujian,Putian,2023,12
+China,Fujian,Quanzhou,2023,12
+China,Fujian,Sanming,2023,12
+China,Fujian,Xiamen,2023,12
+China,Fujian,Zhangzhou,2023,12
+China,Gansu,Baiyin,2023,12
+China,Gansu,Dingxi,2023,12
+China,Gansu,Jiayuguan,2023,12
+China,Gansu,Jinchang,2023,12
+China,Gansu,Jiuquan,2023,12
+China,Gansu,Lanzhou,2023,12
+China,Gansu,Linxia Hui,2023,12
+China,Gansu,Pingliang,2023,12
+China,Gansu,Qingyang,2023,12
+China,Gansu,Tianshui,2023,12
+China,Gansu,Wuwei,2023,12
+China,Gansu,Zhangye,2023,12
+China,Guangdong,Chaozhou,2023,12
+China,Guangdong,Dongguan,2023,12
+China,Guangdong,Foshan,2023,12
+China,Guangdong,Guangzhou,2023,12
+China,Guangdong,Heyuan,2023,12
+China,Guangdong,Huizhou,2023,12
+China,Guangdong,Jiangmen,2023,12
+China,Guangdong,Jieyang,2023,12
+China,Guangdong,Maoming,2023,12
+China,Guangdong,Meizhou,2023,12
+China,Guangdong,Qingyuan,2023,12
+China,Guangdong,Shantou,2023,12
+China,Guangdong,Shanwei,2023,12
+China,Guangdong,Shaoguan,2023,12
+China,Guangdong,Shenzhen,2023,12
+China,Guangdong,Yangjiang,2023,12
+China,Guangdong,Yunfu,2023,12
+China,Guangdong,Zhanjiang,2023,12
+China,Guangdong,Zhaoqing,2023,12
+China,Guangdong,Zhongshan,2023,12
+China,Guangdong,Zhuhai,2023,12
+China,Guangxi,Baise,2023,12
+China,Guangxi,Beihai,2023,12
+China,Guangxi,Chongzuo,2023,12
+China,Guangxi,Fangchenggang,2023,12
+China,Guangxi,Guigang,2023,12
+China,Guangxi,Guilin,2023,12
+China,Guangxi,Hechi,2023,12
+China,Guangxi,Hezhou,2023,12
+China,Guangxi,Laibin,2023,12
+China,Guangxi,Liuzhou,2023,12
+China,Guangxi,Nanning,2023,12
+China,Guangxi,Qinzhou,2023,12
+China,Guangxi,Wuzhou,2023,12
+China,Guangxi,Yulin,2023,12
+China,Guizhou,Anshun,2023,12
+China,Guizhou,Bijie,2023,12
+China,Guizhou,Guiyang,2023,12
+China,Guizhou,Liupanshui,2023,12
+China,Guizhou,Qiandongnan Miao and Dong,2023,12
+China,Guizhou,Qiannan Buyei and Miao,2023,12
+China,Guizhou,Qianxinan Buyei and Miao,2023,12
+China,Guizhou,Tongren,2023,12
+China,Guizhou,Zunyi,2023,12
+China,Hainan,Haikou,2023,12
+China,Hainan,Hainan,2023,12
+China,Hainan,Sanya,2023,12
+China,Hebei,Baoding,2023,12
+China,Hebei,Cangzhou,2023,12
+China,Hebei,Chengde,2023,12
+China,Hebei,Handan,2023,12
+China,Hebei,Hengshui,2023,12
+China,Hebei,Langfang,2023,12
+China,Hebei,Qinhuangdao,2023,12
+China,Hebei,Shijiazhuang,2023,12
+China,Hebei,Tangshan,2023,12
+China,Hebei,Xingtai,2023,12
+China,Hebei,Zhangjiakou,2023,12
+China,Heilongjiang,Daqing,2023,12
+China,Heilongjiang,Daxing'anling,2023,12
+China,Heilongjiang,Harbin,2023,12
+China,Heilongjiang,Hegang,2023,12
+China,Heilongjiang,Heihe,2023,12
+China,Heilongjiang,Jiamusi,2023,12
+China,Heilongjiang,Jixi,2023,12
+China,Heilongjiang,Mudanjiang,2023,12
+China,Heilongjiang,Qiqihar,2023,12
+China,Heilongjiang,Shuangyashan,2023,12
+China,Heilongjiang,Suihua,2023,12
+China,Heilongjiang,Yichun,2023,12
+China,Henan,Anyang,2023,12
+China,Henan,Hebi,2023,12
+China,Henan,Jiaozuo,2023,12
+China,Henan,Jiyuan shi,2023,12
+China,Henan,Kaifeng,2023,12
+China,Henan,Luohe,2023,12
+China,Henan,Luoyang,2023,12
+China,Henan,Nanyang,2023,12
+China,Henan,Pingdingshan,2023,12
+China,Henan,Puyang,2023,12
+China,Henan,Sanmenxia,2023,12
+China,Henan,Shangqiu,2023,12
+China,Henan,Xinxiang,2023,12
+China,Henan,Xinyang,2023,12
+China,Henan,Xuchang,2023,12
+China,Henan,Zhengzhou,2023,12
+China,Henan,Zhoukou,2023,12
+China,Henan,Zhumadian,2023,12
+China,Hubei,Enshi Tujia and Miao,2023,12
+China,Hubei,Ezhou,2023,12
+China,Hubei,Huanggang,2023,12
+China,Hubei,Huangshi,2023,12
+China,Hubei,Jingmen,2023,12
+China,Hubei,Jingzhou,2023,12
+China,Hubei,Qianjiang,2023,12
+China,Hubei,Shiyan,2023,12
+China,Hubei,Suizhou Shi,2023,12
+China,Hubei,Wuhan,2023,12
+China,Hubei,Xiangfan,2023,12
+China,Hubei,Xianning,2023,12
+China,Hubei,Xiantao,2023,12
+China,Hubei,Xiaogan,2023,12
+China,Hubei,Yichang,2023,12
+China,Hunan,Changde,2023,12
+China,Hunan,Changsha,2023,12
+China,Hunan,Chenzhou,2023,12
+China,Hunan,Hengyang,2023,12
+China,Hunan,Huaihua,2023,12
+China,Hunan,Loudi,2023,12
+China,Hunan,Shaoyang,2023,12
+China,Hunan,Xiangtan,2023,12
+China,Hunan,Xiangxi Tujia and Miao,2023,12
+China,Hunan,Yiyang,2023,12
+China,Hunan,Yongzhou,2023,12
+China,Hunan,Yueyang,2023,12
+China,Hunan,Zhangjiajie,2023,12
+China,Hunan,Zhuzhou,2023,12
+China,Jiangsu,Changzhou,2023,12
+China,Jiangsu,Huai'an,2023,12
+China,Jiangsu,Lianyungang,2023,12
+China,Jiangsu,Nanjing,2023,12
+China,Jiangsu,Nantong,2023,12
+China,Jiangsu,Suqian,2023,12
+China,Jiangsu,Suzhou,2023,12
+China,Jiangsu,Taizhou,2023,12
+China,Jiangsu,Wuxi,2023,12
+China,Jiangsu,Xuzhou,2023,12
+China,Jiangsu,Yancheng,2023,12
+China,Jiangsu,Yangzhou,2023,12
+China,Jiangsu,Zhenjiang,2023,12
+China,Jiangxi,Fuzhou,2023,12
+China,Jiangxi,Ganzhou,2023,12
+China,Jiangxi,Ji'an,2023,12
+China,Jiangxi,Jingdezhen,2023,12
+China,Jiangxi,Jiujiang,2023,12
+China,Jiangxi,Nanchang,2023,12
+China,Jiangxi,Pingxiang,2023,12
+China,Jiangxi,Shangrao,2023,12
+China,Jiangxi,Xinyu,2023,12
+China,Jiangxi,Yichun,2023,12
+China,Jiangxi,Yingtan,2023,12
+China,Jilin,Baicheng,2023,12
+China,Jilin,Baishan,2023,12
+China,Jilin,Changchun,2023,12
+China,Jilin,Jilin,2023,12
+China,Jilin,Liaoyuan,2023,12
+China,Jilin,Siping,2023,12
+China,Jilin,Songyuan,2023,12
+China,Jilin,Tonghua,2023,12
+China,Jilin,Yanbian Korean,2023,12
+China,Liaoning,Anshan,2023,12
+China,Liaoning,Benxi,2023,12
+China,Liaoning,Chaoyang,2023,12
+China,Liaoning,Dalian,2023,12
+China,Liaoning,Dandong,2023,12
+China,Liaoning,Fushun,2023,12
+China,Liaoning,Fuxin,2023,12
+China,Liaoning,Huludao,2023,12
+China,Liaoning,Jinzhou,2023,12
+China,Liaoning,Liaoyang,2023,12
+China,Liaoning,Panjin,2023,12
+China,Liaoning,Shenyang,2023,12
+China,Liaoning,Tieling,2023,12
+China,Nei Mongol,Alxa,2023,12
+China,Nei Mongol,Baotou,2023,12
+China,Nei Mongol,Baynnur,2023,12
+China,Nei Mongol,Chifeng,2023,12
+China,Nei Mongol,Hohhot,2023,12
+China,Nei Mongol,Hulunbuir,2023,12
+China,Nei Mongol,Ordos,2023,12
+China,Nei Mongol,Tongliao,2023,12
+China,Nei Mongol,Ulaan Chab,2023,12
+China,Nei Mongol,Wuhai,2023,12
+China,Nei Mongol,Xilin Gol,2023,12
+China,Nei Mongol,Xing'an,2023,12
+China,Ningxia Hui,Guyuan,2023,12
+China,Ningxia Hui,Shizuishan,2023,12
+China,Ningxia Hui,Wuzhong,2023,12
+China,Ningxia Hui,Yinchuan,2023,12
+China,Qinghai,Haibei Tibetan,2023,12
+China,Qinghai,Haidong,2023,12
+China,Qinghai,Hainan Tibetan,2023,12
+China,Qinghai,Haixi Mongol and Tibetan,2023,12
+China,Qinghai,Huangnan Tibetan,2023,12
+China,Qinghai,Xining,2023,12
+China,Shaanxi,Ankang,2023,12
+China,Shaanxi,Baoji,2023,12
+China,Shaanxi,Hanzhong,2023,12
+China,Shaanxi,Shangluo,2023,12
+China,Shaanxi,Tongchuan,2023,12
+China,Shaanxi,Weinan,2023,12
+China,Shaanxi,Xi'an,2023,12
+China,Shaanxi,Xianyang,2023,12
+China,Shaanxi,Yan'an,2023,12
+China,Shaanxi,Yulin,2023,12
+China,Shandong,Binzhou,2023,12
+China,Shandong,Dezhou,2023,12
+China,Shandong,Dongying,2023,12
+China,Shandong,Heze,2023,12
+China,Shandong,Jinan,2023,12
+China,Shandong,Jining,2023,12
+China,Shandong,Laiwu,2023,12
+China,Shandong,Liaocheng,2023,12
+China,Shandong,Linyi,2023,12
+China,Shandong,Qingdao,2023,12
+China,Shandong,Rizhao,2023,12
+China,Shandong,Tai'an,2023,12
+China,Shandong,Weifang,2023,12
+China,Shandong,Weihai,2023,12
+China,Shandong,Yantai,2023,12
+China,Shandong,Zaozhuang,2023,12
+China,Shandong,Zibo,2023,12
+China,Shanghai,Shanghai,2023,12
+China,Shanxi,Changzhi,2023,12
+China,Shanxi,Datong,2023,12
+China,Shanxi,Jincheng,2023,12
+China,Shanxi,Jinzhong,2023,12
+China,Shanxi,Linfen,2023,12
+China,Shanxi,Luliang,2023,12
+China,Shanxi,Shuozhou,2023,12
+China,Shanxi,Taiyuan,2023,12
+China,Shanxi,Xinzhou,2023,12
+China,Shanxi,Yangquan,2023,12
+China,Shanxi,Yuncheng,2023,12
+China,Sichuan,Bazhong,2023,12
+China,Sichuan,Chengdu,2023,12
+China,Sichuan,Dazhou,2023,12
+China,Sichuan,Deyang,2023,12
+China,Sichuan,Garzê Tibetan,2023,12
+China,Sichuan,Guang'an,2023,12
+China,Sichuan,Guangyuan,2023,12
+China,Sichuan,Leshan,2023,12
+China,Sichuan,Liangshan Yi,2023,12
+China,Sichuan,Luzhou,2023,12
+China,Sichuan,Meishan,2023,12
+China,Sichuan,Mianyang,2023,12
+China,Sichuan,Nanchong,2023,12
+China,Sichuan,Neijiang,2023,12
+China,Sichuan,Ngawa Tibetan and Qiang,2023,12
+China,Sichuan,Panzhihua,2023,12
+China,Sichuan,Suining,2023,12
+China,Sichuan,Ya'an,2023,12
+China,Sichuan,Yibin,2023,12
+China,Sichuan,Zigong,2023,12
+China,Sichuan,Ziyang,2023,12
+China,Tianjin,Tianjin,2023,12
+China,Xinjiang Uygur,Aksu,2023,12
+China,Xinjiang Uygur,Bayin'gholin Mongol,2023,12
+China,Xinjiang Uygur,Börtala Mongol,2023,12
+China,Xinjiang Uygur,Changji Hui,2023,12
+China,Xinjiang Uygur,Hami,2023,12
+China,Xinjiang Uygur,Ili Kazakh,2023,12
+China,Xinjiang Uygur,Karamay,2023,12
+China,Xinjiang Uygur,Kashgar,2023,12
+China,Xinjiang Uygur,Shihezi,2023,12
+China,Xinjiang Uygur,Tacheng,2023,12
+China,Xinjiang Uygur,Turfan,2023,12
+China,Xinjiang Uygur,Ürümqi,2023,12
+China,Xizang,Chamdo,2023,12
+China,Xizang,Lhasa,2023,12
+China,Xizang,Nagchu,2023,12
+China,Xizang,Nyingtri,2023,12
+China,Xizang,Shannan,2023,12
+China,Xizang,Shigatse,2023,12
+China,Yunnan,Baoshan,2023,12
+China,Yunnan,Chuxiong Yi,2023,12
+China,Yunnan,Dali Bai,2023,12
+China,Yunnan,Dehong Dai and Jingpo,2023,12
+China,Yunnan,Dêqên Tibetan,2023,12
+China,Yunnan,Honghe Hani and Yi,2023,12
+China,Yunnan,Kunming,2023,12
+China,Yunnan,Lijiang,2023,12
+China,Yunnan,Lincang,2023,12
+China,Yunnan,Pu'er,2023,12
+China,Yunnan,Qujing,2023,12
+China,Yunnan,Wenshan Zhuang and Miao,2023,12
+China,Yunnan,Yuxi,2023,12
+China,Yunnan,Zhaotong,2023,12
+China,Zhejiang,Hangzhou,2023,12
+China,Zhejiang,Huzhou,2023,12
+China,Zhejiang,Jiaxing,2023,12
+China,Zhejiang,Jinhua,2023,12
+China,Zhejiang,Lishui,2023,12
+China,Zhejiang,Ningbo,2023,12
+China,Zhejiang,Quzhou,2023,12
+China,Zhejiang,Shaoxing,2023,12
+China,Zhejiang,Taizhou,2023,12
+China,Zhejiang,Wenzhou,2023,12
+China,Zhejiang,Zhoushan,2023,12

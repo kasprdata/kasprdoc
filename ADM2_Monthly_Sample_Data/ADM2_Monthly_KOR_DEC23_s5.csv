@@ -1,0 +1,12 @@
+country_iso_name,name_1,name_2,country_iso_three_char_code,adm1id,adm2id,year,month,rtt_var_norm,rtt_mean_norm,connectivity_out_2sd,latency_out_3sd,rtt_d,rtt_dp
+South Korea,Gyeonggi-do,Siheung,KOR,KOR-8,KOR-8-100,2023,12,7747.0967,300.96774,0,0,8.0322571,2.6688099
+South Korea,Seoul,Seocho,KOR,KOR-15,KOR-15-217,2023,12,6907.8389,304.64517,23,0,11.709686,3.843713
+South Korea,Gyeonggi-do,Pocheon,KOR,KOR-8,KOR-8-97,2023,12,7631.1611,301.5484,0,0,8.612915,2.8562298
+South Korea,Gyeongsangnam-do,Namhae,KOR,KOR-10,KOR-10-146,2023,12,7730.1289,300,0,0,7.0645142,2.3548381
+South Korea,Jeollabuk-do,Gochang,KOR,KOR-13,KOR-13-166,2023,12,7579.8389,302.06451,0,0,9.1290283,3.0222116
+South Korea,Gyeongsangnam-do,Sacheon,KOR,KOR-10,KOR-10-147,2023,12,7763.9678,300.70969,0,0,7.7742004,2.5852842
+South Korea,Daejeon,Seo,KOR,KOR-5,KOR-5-55,2023,12,7484.5483,298.64517,0,0,5.7096863,1.911863
+South Korea,Gyeongsangbuk-do,Cheongdo,KOR,KOR-9,KOR-9-111,2023,12,7778.1289,299.32257,19,0,6.387085,2.1338468
+South Korea,Jeollanam-do,Muan,KOR,KOR-14,KOR-14-192,2023,12,7410.9355,304.90323,0,0,11.967743,3.9250956
+South Korea,Jeollanam-do,Suncheon,KOR,KOR-14,KOR-14-195,2023,12,7422.9678,304,0,0,11.064514,3.6396427
+South Korea,Gyeonggi-do,Suwon,KOR,KOR-8,KOR-8-101,2023,12,7644.8711,300.41934,0,0,7.4838562,2.4911366

@@ -1,0 +1,13 @@
+country_iso_name,name_1,name_2,country_iso_three_char_code,adm1id,adm2id,year,month,rtt_var_norm,rtt_mean_norm,connectivity_out_2sd,latency_out_3sd,rtt_d,rtt_dp
+South Africa,Mpumalanga,Bethal,ZAF,ZAF-5,ZAF-5-189,2023,12,14969.678,321.80646,0,0,74.290329,23.085407
+South Africa,KwaZulu-Natal,Nqutu,ZAF,ZAF-3,ZAF-3-137,2023,12,8702.0645,319.61292,0,0,72.096786,22.557531
+South Africa,Western Cape,Beaufort West,ZAF,ZAF-10,ZAF-10-314,2023,12,10233.839,301.7742,0,0,54.258072,17.979692
+South Africa,Mpumalanga,Barberton,ZAF,ZAF-5,ZAF-5-187,2023,12,23039.098,358.25806,7,0,110.74193,30.911219
+South Africa,Eastern Cape,Fort Beaufort,ZAF,ZAF-1,ZAF-1-21,2023,12,15481.258,356.38708,4,2,108.87096,30.548513
+South Africa,Mpumalanga,Volksrust,ZAF,ZAF-5,ZAF-5-211,2023,12,22536.42,377.96774,0,0,130.45161,34.513954
+South Africa,Western Cape,Hermanus,ZAF,ZAF-10,ZAF-10-325,2023,12,8502.6133,285.87097,0,0,38.354843,13.416838
+South Africa,Northern Cape,Gordonia,ZAF,ZAF-7,ZAF-7-242,2023,12,27460.645,393.80646,2,0,146.29033,37.147774
+South Africa,Gauteng,Vereeniging,ZAF,ZAF-2,ZAF-2-100,2023,12,28533.967,378.29031,23,0,130.77419,34.569794
+South Africa,Mpumalanga,Piet Retief,ZAF,ZAF-5,ZAF-5-209,2023,12,28644.709,405.16129,1,0,157.64516,38.909237
+South Africa,Western Cape,Goodwood,ZAF,ZAF-10,ZAF-10-323,2023,12,11811.742,294.2258,0,0,46.709671,15.87545
+South Africa,Gauteng,Brakpan,ZAF,ZAF-2,ZAF-2-82,2023,12,16705.58,326.35483,5,0,78.838699,24.157356
