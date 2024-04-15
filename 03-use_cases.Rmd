@@ -3,3 +3,5 @@
  
 If you require any help or support with our data products, please contact: support@kasprdata.com
  
+
+Service Level Agreement for KASPR Listings on AWS Data Exchange: [Download]("images/KDHAWSSLA.pdf")
