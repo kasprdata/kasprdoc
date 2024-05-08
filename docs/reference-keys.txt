@@ -1,7 +1,8 @@
 overview
 global-subnational-internet-quality-products
 global-geolocated-internet-intel-anomaly-products
+telco-and-isp-companyticker-level-products
 support
-disclaimer
 license
 data-due-diligence-questionnaire-ddq
+disclaimer

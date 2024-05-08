@@ -1,7 +1,89 @@
-# Support
+# Telco and ISP Company/Ticker Level Products
+
+This document describes the KDH Telco and ISP Company/Ticker Level Products developed by KASPR Datahaus PTY LTD. This suit of products presents **daily aggregates** of our few-hourly (e.g. 1h, 3h, 6h)  national level aggregates at the Internet Service Provider (ISP) level products and provide an aggregated measure of ISP’s ICT Infrastructure.  It contains aggregated measures on a rgion's internet quality, outages, slow-downs and distance to latency frontier.  The raw measurement basis for this product are over 3 billion daily measurements from over 450 million internet connected end-point devices. Data is matched to stock tickers.
+
+
+
+## Metadata {.unlisted .unnumbered}
+Description | Value  
+----|-----
+Update Frequency | Daily
+Geographic Coverage | Global 
+Matched to stock tickers | Yes
+Time period coverage | Since FEB 2019
+Historical data available | Yes, 5 years
+Data Set Format | .tsv
+Raw or scraped data | Raw Data (Aggregated)
+Key Fields |  Country; Ticker; Average Latency and Average Variance in Latency;  Number of days in the year with connectivity and latency anomalies; Distance to the latency frontier; 
+Key Words | telecommunication, ISP, ticker, internet, internet quality, latency, stability, outages
+
+
 
  
-If you require any help or support with our data products, please contact: support@kasprdata.com
+## Use Cases {.unlisted .unnumbered}
+
+
  
 
-Service Level Agreement for KASPR Listings on AWS Data Exchange: [Download](images/KDHAWSSLA.pdf)
+
+
+ 
+
+
+### Market Analysis {.unlisted .unnumbered}
+Analyse the performance of Internt Service Providrs on a daily basis.
+
+ 
+
+### Geospatial Telecommunications Data  {.unlisted .unnumbered}
+Telecommunication and ISP companies can identify new potential markets.
+
+ 
+
+ 
+
+
+
+## Sample Data {.unlisted .unnumbered}
+
+Sample dataset provides immediate access to a static version random subsample for the year 2023.
+
+Customized Data for individual countries or regions as well as Internet Service Provider (ISP) level  are available per request.
+
+ 
+
+## Historical Data & Backtesting {.unlisted .unnumbered}
+
+5 year historical data is available for purchase and backtesting. Data collection has been operating consistently and without interruptions since February 2019.
+
+Please contact info@kasprdata.com for further information.
+
+ 
+
+
+## Customization {.unlisted .unnumbered}
+
+KASPR Datahaus PTY LTD offers additional services to interested parties where our technology can intensively measure the IP space of a subset of over one hundred metropolitan areas around the globe to provide a representative view of these specific, high IP address concentration, large urban agglomerations.
+
+We welcome inquiries around any aspect of product design that may serve your needs. Please get in touch at info@kasprdata.com.
+
+
+
+
+## Variable Defintions {.unlisted .unnumbered}
+
+| Variable | Description |
+| --- | --- |
+| country_iso_three_char_code | Country's 3-digit ISO code |
+| country_iso_name | Country name |
+| bb_ticker | Stock Ticker |
+| year | Year |
+| month | Month |
+| rtt_variance_norm | Average Variance in Latency (ping response time in ms). Higher values indicate more volatility in internet connectivity during that period. |
+| rtt_mean_norm | Average Latency (ping response time in ms). Higher values indicate lower average quality in internet connectivity during that period. |
+| connectivity_out_2sd | Indicator variable that switches to 1 if connectivity (unique # of active IPs) was 2 standard deviations below the median connectivity and 0 otherwise. |
+| latency_out_3sd | Indicator variable that switches to 1 if *rtt_mean_norm* was 3 standard deviations above the median latency and 0 otherwise. |
+| rtt_d	|Absolute difference between *rtt_mean_norm* and minimum latency in the country (rtt_min). Distance to the latency frontier.	Higher values indicate relatively lower quality.	|
+|rtt_dp	|Percentage difference between *rtt_mean_norm*  and minimum latency in the country (rtt_min). Distance to the latency frontier.		Higher values indicate relatively lower quality.	 |
+
+
